@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国語単語帳</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#1a1d24; --panel2:#20242c; --border:#2c313c;
+    --text:#e8e9ec; --muted:#9aa1ac; --accent:#4da3ff; --accent2:#7ee0b3;
+    --chip:#232833; --chip-active:#3a6ee0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,"Hiragino Sans","Yu Gothic",sans-serif;
+    background:var(--bg); color:var(--text); padding:20px 14px 60px;
+  }
+  header{max-width:760px;margin:0 auto 18px;}
+  h1{font-size:1.35rem;margin:0 0 4px;}
+  .sub{color:var(--muted);font-size:.85rem;margin:0 0 14px;}
+  .count{color:var(--accent2);}
+  .search{
+    width:100%;padding:10px 12px;border-radius:10px;border:1px solid var(--border);
+    background:var(--panel2);color:var(--text);font-size:.95rem;margin-bottom:10px;
+  }
+  .filters{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px;}
+  .chip{
+    padding:5px 12px;border-radius:999px;border:1px solid var(--border);
+    background:var(--chip);color:var(--muted);font-size:.8rem;cursor:pointer;user-select:none;
+  }
+  .chip.active{background:var(--chip-active);color:#fff;border-color:var(--chip-active);}
+  main{max-width:760px;margin:0 auto;}
+  .card{
+    background:var(--panel);border:1px solid var(--border);border-radius:14px;
+    padding:14px 16px;margin-bottom:10px;
+  }
+  .row1{display:flex;align-items:baseline;justify-content:space-between;gap:10px;}
+  .zh{font-size:1.5rem;font-weight:700;}
+  .pinyin{color:var(--accent);font-size:.95rem;margin-left:8px;}
+  .hsk-tag{font-size:.7rem;color:var(--muted);border:1px solid var(--border);border-radius:6px;padding:1px 6px;white-space:nowrap;}
+  .ja{color:var(--text);font-size:1rem;margin-top:6px;}
+  .speak-btn{
+    background:none;border:1px solid var(--border);color:var(--accent);
+    border-radius:8px;width:34px;height:34px;font-size:1rem;cursor:pointer;flex:none;
+  }
+  .speak-btn:active{transform:scale(0.94);}
+  .example{
+    margin-top:10px;padding-top:10px;border-top:1px dashed var(--border);
+    font-size:.9rem;color:var(--muted);
+  }
+  .example .exzh{color:var(--text);font-size:1rem;}
+  .example .expinyin{color:var(--accent);}
+  .example .exja{color:var(--muted);}
+  .example-row{display:flex;align-items:center;gap:8px;}
+  .date{font-size:.7rem;color:var(--muted);margin-top:8px;}
+  footer{max-width:760px;margin:24px auto 0;color:var(--muted);font-size:.75rem;text-align:center;}
+  .empty{color:var(--muted);text-align:center;padding:40px 0;}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="title">中国語単語帳</h1>
+  <p class="sub" id="subtitle">読み込み中...</p>
+  <input class="search" id="search" placeholder="単語・ピンイン・意味で検索">
+  <div class="filters" id="filters"></div>
+</header>
+<main id="list"></main>
+<footer>Nobuさん文脈 / 毎日追加 / 音声はブラウザのText-to-Speechを使用（オフライン対応の場合あり）</footer>
+
+<script>
+let ALL = [];
+let currentHsk = 'すべて';
+let voice = null;
+
+function pickVoice(){
+  const voices = window.speechSynthesis.getVoices();
+  voice = voices.find(v => v.lang === 'zh-CN') ||
+          voices.find(v => v.lang && v.lang.startsWith('zh')) || null;
+}
+window.speechSynthesis.onvoiceschanged = pickVoice;
+pickVoice();
+
+function speak(text){
+  if (!('speechSynthesis' in window)) { alert('この端末は音声合成に対応していません'); return; }
+  window.speechSynthesis.cancel();
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = 'zh-CN';
+  if (voice) utter.voice = voice;
+  utter.rate = 0.95;
+  window.speechSynthesis.speak(utter);
+}
+
+function render(){
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const list = document.getElementById('list');
+  const filtered = ALL.filter(w => {
+    const hskOk = currentHsk === 'すべて' || ('HSK' + w.hsk) === currentHsk;
+    if (!hskOk) return false;
+    if (!q) return true;
+    return (w.zh + w.pinyin + w.ja).toLowerCase().includes(q);
+  });
+
+  document.getElementById('subtitle').innerHTML =
+    `全 <span class="count">${ALL.length}</span> 語 ／ 表示中 ${filtered.length} 語`;
+
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty">該当する単語がありません</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.slice().reverse().map(w => `
+    <div class="card">
+      <div class="row1">
+        <div>
+          <span class="zh">${w.zh}</span>
+          <span class="pinyin">${w.pinyin}</span>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="hsk-tag">HSK${w.hsk}</span>
+          <button class="speak-btn" onclick="speak('${w.zh.replace(/'/g, "\\'")}')">🔊</button>
+        </div>
+      </div>
+      <div class="ja">${w.ja}</div>
+      <div class="example">
+        <div class="example-row">
+          <span class="exzh">${w.example_zh}</span>
+          <button class="speak-btn" onclick="speak('${w.example_zh.replace(/'/g, "\\'")}')">🔊</button>
+        </div>
+        <div class="expinyin">${w.example_pinyin}</div>
+        <div class="exja">${w.example_ja}</div>
+      </div>
+      <div class="date">${w.date}</div>
+    </div>
+  `).join('');
+}
+
+function buildFilters(){
+  const hsks = Array.from(new Set(ALL.map(w => 'HSK' + w.hsk))).sort();
+  const chips = ['すべて', ...hsks];
+  const el = document.getElementById('filters');
+  el.innerHTML = chips.map(c =>
+    `<div class="chip ${c === currentHsk ? 'active' : ''}" data-c="${c}">${c}</div>`
+  ).join('');
+  el.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      currentHsk = chip.dataset.c;
+      buildFilters();
+      render();
+    });
+  });
+}
+
+document.getElementById('search').addEventListener('input', render);
+
+fetch('words.json')
+  .then(r => r.json())
+  .then(data => {
+    ALL = data;
+    buildFilters();
+    render();
+  })
+  .catch(() => {
+    document.getElementById('subtitle').textContent = 'words.json の読み込みに失敗しました';
+  });
+</script>
+</body>
+</html>
