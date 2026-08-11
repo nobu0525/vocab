@@ -70,5 +70,41 @@
     "example_ja": "大丈夫、問題ありません。",
     "audio_word": "audio/meiguanxi_word.mp3",
     "audio_example": "audio/meiguanxi_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "我",
+    "pinyin": "wǒ",
+    "ja": "私、僕",
+    "example_zh": "我是日本人。",
+    "example_pinyin": "Wǒ shì Rìběn rén.",
+    "example_ja": "私は日本人です。",
+    "audio_word": "audio/wo_word.mp3",
+    "audio_example": "audio/wo_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "你",
+    "pinyin": "nǐ",
+    "ja": "あなた",
+    "example_zh": "你叫什么名字？",
+    "example_pinyin": "Nǐ jiào shénme míngzi?",
+    "example_ja": "あなたの名前は何ですか？",
+    "audio_word": "audio/ni_word.mp3",
+    "audio_example": "audio/ni_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "是",
+    "pinyin": "shì",
+    "ja": "〜です、〜である",
+    "example_zh": "这是我的书。",
+    "example_pinyin": "Zhè shì wǒ de shū.",
+    "example_ja": "これは私の本です。",
+    "audio_word": "audio/shi_word.mp3",
+    "audio_example": "audio/shi_example.mp3"
   }
 ]
