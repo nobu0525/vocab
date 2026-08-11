@@ -34,5 +34,41 @@
     "example_ja": "また明日、さようなら！",
     "audio_word": "audio/zaijian_word.mp3",
     "audio_example": "audio/zaijian_example.mp3"
+  },
+  {
+    "date": "2026-08-11",
+    "hsk": 1,
+    "zh": "请",
+    "pinyin": "qǐng",
+    "ja": "どうぞ／〜してください",
+    "example_zh": "请坐。",
+    "example_pinyin": "Qǐng zuò.",
+    "example_ja": "どうぞ座ってください。",
+    "audio_word": "audio/qing_word.mp3",
+    "audio_example": "audio/qing_example.mp3"
+  },
+  {
+    "date": "2026-08-11",
+    "hsk": 1,
+    "zh": "对不起",
+    "pinyin": "duìbuqǐ",
+    "ja": "すみません、ごめんなさい",
+    "example_zh": "对不起，我迟到了。",
+    "example_pinyin": "Duìbuqǐ, wǒ chídào le.",
+    "example_ja": "すみません、遅刻しました。",
+    "audio_word": "audio/duibuqi_word.mp3",
+    "audio_example": "audio/duibuqi_example.mp3"
+  },
+  {
+    "date": "2026-08-11",
+    "hsk": 1,
+    "zh": "没关系",
+    "pinyin": "méi guānxi",
+    "ja": "大丈夫です、気にしないで",
+    "example_zh": "没关系，没问题。",
+    "example_pinyin": "Méi guānxi, méi wèntí.",
+    "example_ja": "大丈夫、問題ありません。",
+    "audio_word": "audio/meiguanxi_word.mp3",
+    "audio_example": "audio/meiguanxi_example.mp3"
   }
 ]
