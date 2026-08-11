@@ -7,7 +7,9 @@
     "ja": "こんにちは",
     "example_zh": "你好，很高兴认识你。",
     "example_pinyin": "Nǐ hǎo, hěn gāoxìng rènshi nǐ.",
-    "example_ja": "こんにちは、お会いできて嬉しいです。"
+    "example_ja": "こんにちは、お会いできて嬉しいです。",
+    "audio_word": "audio/nihao_word.mp3",
+    "audio_example": "audio/nihao_example.mp3"
   },
   {
     "date": "2026-08-11",
@@ -17,7 +19,9 @@
     "ja": "ありがとう",
     "example_zh": "谢谢你的帮助。",
     "example_pinyin": "Xièxie nǐ de bāngzhù.",
-    "example_ja": "手伝ってくれてありがとう。"
+    "example_ja": "手伝ってくれてありがとう。",
+    "audio_word": "audio/xiexie_word.mp3",
+    "audio_example": "audio/xiexie_example.mp3"
   },
   {
     "date": "2026-08-11",
@@ -27,6 +31,8 @@
     "ja": "さようなら",
     "example_zh": "明天见，再见！",
     "example_pinyin": "Míngtiān jiàn, zàijiàn!",
-    "example_ja": "また明日、さようなら！"
+    "example_ja": "また明日、さようなら！",
+    "audio_word": "audio/zaijian_word.mp3",
+    "audio_example": "audio/zaijian_example.mp3"
   }
 ]

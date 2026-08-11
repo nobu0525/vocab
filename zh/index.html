@@ -63,31 +63,54 @@
   <p class="sub" id="subtitle">読み込み中...</p>
   <input class="search" id="search" placeholder="単語・ピンイン・意味で検索">
   <div class="filters" id="filters"></div>
+  <div style="margin-top:8px;color:var(--muted);font-size:.8rem;display:flex;align-items:center;gap:8px;">
+    <span>再生速度</span>
+    <input type="range" id="speed" min="0.5" max="1.0" step="0.1" value="0.8" style="flex:1;">
+    <span id="speedVal">0.8x</span>
+  </div>
 </header>
 <main id="list"></main>
-<footer>Nobuさん文脈 / 毎日追加 / 音声はブラウザのText-to-Speechを使用（オフライン対応の場合あり）</footer>
+<footer>Nobuさん文脈 / 毎日追加 / 音声は事前生成mp3を再生（オフライン対応）</footer>
 
 <script>
 let ALL = [];
 let currentHsk = 'すべて';
+let currentAudio = null;
 let voice = null;
 
 function pickVoice(){
+  if (!('speechSynthesis' in window)) return;
   const voices = window.speechSynthesis.getVoices();
   voice = voices.find(v => v.lang === 'zh-CN') ||
           voices.find(v => v.lang && v.lang.startsWith('zh')) || null;
 }
-window.speechSynthesis.onvoiceschanged = pickVoice;
-pickVoice();
+if ('speechSynthesis' in window) {
+  window.speechSynthesis.onvoiceschanged = pickVoice;
+  pickVoice();
+}
 
-function speak(text){
-  if (!('speechSynthesis' in window)) { alert('この端末は音声合成に対応していません'); return; }
+function speakFallback(text){
+  if (!('speechSynthesis' in window)) { alert('音声を再生できません'); return; }
   window.speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(text);
   utter.lang = 'zh-CN';
   if (voice) utter.voice = voice;
   utter.rate = 0.95;
   window.speechSynthesis.speak(utter);
+}
+
+function getSpeed(){
+  const el = document.getElementById('speed');
+  return el ? parseFloat(el.value) : 0.8;
+}
+
+function playAudio(src, fallbackText){
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  if (!src) { speakFallback(fallbackText); return; }
+  const audio = new Audio(src);
+  audio.playbackRate = getSpeed();
+  currentAudio = audio;
+  audio.play().catch(() => speakFallback(fallbackText));
 }
 
 function render(){
@@ -117,14 +140,14 @@ function render(){
         </div>
         <div style="display:flex;align-items:center;gap:8px;">
           <span class="hsk-tag">HSK${w.hsk}</span>
-          <button class="speak-btn" onclick="speak('${w.zh.replace(/'/g, "\\'")}')">🔊</button>
+          <button class="speak-btn" onclick="playAudio(${w.audio_word ? `'${w.audio_word}'` : 'null'}, '${w.zh.replace(/'/g, "\\'")}')">🔊</button>
         </div>
       </div>
       <div class="ja">${w.ja}</div>
       <div class="example">
         <div class="example-row">
           <span class="exzh">${w.example_zh}</span>
-          <button class="speak-btn" onclick="speak('${w.example_zh.replace(/'/g, "\\'")}')">🔊</button>
+          <button class="speak-btn" onclick="playAudio(${w.audio_example ? `'${w.audio_example}'` : 'null'}, '${w.example_zh.replace(/'/g, "\\'")}')">🔊</button>
         </div>
         <div class="expinyin">${w.example_pinyin}</div>
         <div class="exja">${w.example_ja}</div>
@@ -151,6 +174,9 @@ function buildFilters(){
 }
 
 document.getElementById('search').addEventListener('input', render);
+document.getElementById('speed').addEventListener('input', (e) => {
+  document.getElementById('speedVal').textContent = parseFloat(e.target.value).toFixed(1) + 'x';
+});
 
 fetch('words.json')
   .then(r => r.json())
