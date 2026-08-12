@@ -106,5 +106,41 @@
     "example_ja": "これは私の本です。",
     "audio_word": "audio/shi_word.mp3",
     "audio_example": "audio/shi_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "好",
+    "pinyin": "hǎo",
+    "ja": "良い、元気な",
+    "example_zh": "今天天气很好。",
+    "example_pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "example_ja": "今日は天気がいいです。",
+    "audio_word": "audio/hao_word.mp3",
+    "audio_example": "audio/hao_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "不",
+    "pinyin": "bù",
+    "ja": "〜ない、いいえ",
+    "example_zh": "我不是学生。",
+    "example_pinyin": "Wǒ bú shì xuéshēng.",
+    "example_ja": "私は学生ではありません。",
+    "audio_word": "audio/bu_word.mp3",
+    "audio_example": "audio/bu_example.mp3"
+  },
+  {
+    "date": "2026-08-12",
+    "hsk": 1,
+    "zh": "吗",
+    "pinyin": "ma",
+    "ja": "〜か（疑問を表す助詞）",
+    "example_zh": "你好吗？",
+    "example_pinyin": "Nǐ hǎo ma?",
+    "example_ja": "お元気ですか？",
+    "audio_word": "audio/ma_word.mp3",
+    "audio_example": "audio/ma_example.mp3"
   }
 ]
