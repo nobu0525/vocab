@@ -142,5 +142,41 @@
     "example_ja": "お元気ですか？",
     "audio_word": "audio/ma_word.mp3",
     "audio_example": "audio/ma_example.mp3"
+  },
+  {
+    "date": "2026-08-13",
+    "hsk": 1,
+    "zh": "他",
+    "pinyin": "tā",
+    "ja": "彼",
+    "example_zh": "他是我的朋友。",
+    "example_pinyin": "Tā shì wǒ de péngyou.",
+    "example_ja": "彼は私の友達です。",
+    "audio_word": "audio/ta_word.mp3",
+    "audio_example": "audio/ta_example.mp3"
+  },
+  {
+    "date": "2026-08-13",
+    "hsk": 1,
+    "zh": "这",
+    "pinyin": "zhè",
+    "ja": "これ",
+    "example_zh": "这是苹果。",
+    "example_pinyin": "Zhè shì píngguǒ.",
+    "example_ja": "これはリンゴです。",
+    "audio_word": "audio/zhe_word.mp3",
+    "audio_example": "audio/zhe_example.mp3"
+  },
+  {
+    "date": "2026-08-13",
+    "hsk": 1,
+    "zh": "那",
+    "pinyin": "nà",
+    "ja": "あれ、それ",
+    "example_zh": "那是我的家。",
+    "example_pinyin": "Nà shì wǒ de jiā.",
+    "example_ja": "あれは私の家です。",
+    "audio_word": "audio/na_word.mp3",
+    "audio_example": "audio/na_example.mp3"
   }
 ]
