@@ -178,5 +178,41 @@
     "example_ja": "あれは私の家です。",
     "audio_word": "audio/na_word.mp3",
     "audio_example": "audio/na_example.mp3"
+  },
+  {
+    "date": "2026-08-14",
+    "hsk": 1,
+    "zh": "爸爸",
+    "pinyin": "bàba",
+    "ja": "お父さん",
+    "example_zh": "我爸爸是老师。",
+    "example_pinyin": "Wǒ bàba shì lǎoshī.",
+    "example_ja": "私の父は先生です。",
+    "audio_word": "audio/baba_word.mp3",
+    "audio_example": "audio/baba_example.mp3"
+  },
+  {
+    "date": "2026-08-14",
+    "hsk": 1,
+    "zh": "妈妈",
+    "pinyin": "māma",
+    "ja": "お母さん",
+    "example_zh": "我妈妈很漂亮。",
+    "example_pinyin": "Wǒ māma hěn piàoliang.",
+    "example_ja": "私の母はとても綺麗です。",
+    "audio_word": "audio/mama_word.mp3",
+    "audio_example": "audio/mama_example.mp3"
+  },
+  {
+    "date": "2026-08-14",
+    "hsk": 1,
+    "zh": "朋友",
+    "pinyin": "péngyou",
+    "ja": "友達",
+    "example_zh": "他是我的好朋友。",
+    "example_pinyin": "Tā shì wǒ de hǎo péngyou.",
+    "example_ja": "彼は私の良い友達です。",
+    "audio_word": "audio/pengyou_word.mp3",
+    "audio_example": "audio/pengyou_example.mp3"
   }
 ]
