@@ -214,5 +214,41 @@
     "example_ja": "彼は私の良い友達です。",
     "audio_word": "audio/pengyou_word.mp3",
     "audio_example": "audio/pengyou_example.mp3"
+  },
+  {
+    "date": "2026-08-15",
+    "hsk": 1,
+    "zh": "吃",
+    "pinyin": "chī",
+    "ja": "食べる",
+    "example_zh": "我吃苹果。",
+    "example_pinyin": "Wǒ chī píngguǒ.",
+    "example_ja": "私はリンゴを食べます。",
+    "audio_word": "audio/chi_word.mp3",
+    "audio_example": "audio/chi_example.mp3"
+  },
+  {
+    "date": "2026-08-15",
+    "hsk": 1,
+    "zh": "喝",
+    "pinyin": "hē",
+    "ja": "飲む",
+    "example_zh": "我喝水。",
+    "example_pinyin": "Wǒ hē shuǐ.",
+    "example_ja": "私は水を飲みます。",
+    "audio_word": "audio/he_word.mp3",
+    "audio_example": "audio/he_example.mp3"
+  },
+  {
+    "date": "2026-08-15",
+    "hsk": 1,
+    "zh": "水",
+    "pinyin": "shuǐ",
+    "ja": "水",
+    "example_zh": "那是水。",
+    "example_pinyin": "Nà shì shuǐ.",
+    "example_ja": "あれは水です。",
+    "audio_word": "audio/shui_word.mp3",
+    "audio_example": "audio/shui_example.mp3"
   }
 ]
