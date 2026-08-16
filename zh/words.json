@@ -250,5 +250,41 @@
     "example_ja": "あれは水です。",
     "audio_word": "audio/shui_word.mp3",
     "audio_example": "audio/shui_example.mp3"
+  },
+  {
+    "date": "2026-08-16",
+    "hsk": 1,
+    "zh": "一",
+    "pinyin": "yī",
+    "ja": "1、一つ",
+    "example_zh": "一、二、三，开始！",
+    "example_pinyin": "Yī, èr, sān, kāishǐ!",
+    "example_ja": "1、2、3、スタート！",
+    "audio_word": "audio/yi_word.mp3",
+    "audio_example": "audio/yi_example.mp3"
+  },
+  {
+    "date": "2026-08-16",
+    "hsk": 1,
+    "zh": "二",
+    "pinyin": "èr",
+    "ja": "2、二つ",
+    "example_zh": "这是二楼。",
+    "example_pinyin": "Zhè shì èr lóu.",
+    "example_ja": "ここは2階です。",
+    "audio_word": "audio/er_word.mp3",
+    "audio_example": "audio/er_example.mp3"
+  },
+  {
+    "date": "2026-08-16",
+    "hsk": 1,
+    "zh": "三",
+    "pinyin": "sān",
+    "ja": "3、三つ",
+    "example_zh": "现在三点。",
+    "example_pinyin": "Xiànzài sān diǎn.",
+    "example_ja": "今3時です。",
+    "audio_word": "audio/san_word.mp3",
+    "audio_example": "audio/san_example.mp3"
   }
 ]
