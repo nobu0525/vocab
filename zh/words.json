@@ -286,5 +286,41 @@
     "example_ja": "今3時です。",
     "audio_word": "audio/san_word.mp3",
     "audio_example": "audio/san_example.mp3"
+  },
+  {
+    "date": "2026-08-17",
+    "hsk": 1,
+    "zh": "四",
+    "pinyin": "sì",
+    "ja": "4、四つ",
+    "example_zh": "我有四个苹果。",
+    "example_pinyin": "Wǒ yǒu sì gè píngguǒ.",
+    "example_ja": "私はリンゴを4つ持っています。",
+    "audio_word": "audio/si_word.mp3",
+    "audio_example": "audio/si_example.mp3"
+  },
+  {
+    "date": "2026-08-17",
+    "hsk": 1,
+    "zh": "五",
+    "pinyin": "wǔ",
+    "ja": "5、五つ",
+    "example_zh": "现在五点。",
+    "example_pinyin": "Xiànzài wǔ diǎn.",
+    "example_ja": "今5時です。",
+    "audio_word": "audio/wu_word.mp3",
+    "audio_example": "audio/wu_example.mp3"
+  },
+  {
+    "date": "2026-08-17",
+    "hsk": 1,
+    "zh": "六",
+    "pinyin": "liù",
+    "ja": "6、六つ",
+    "example_zh": "我六岁。",
+    "example_pinyin": "Wǒ liù suì.",
+    "example_ja": "私は6歳です。",
+    "audio_word": "audio/liu_word.mp3",
+    "audio_example": "audio/liu_example.mp3"
   }
 ]
