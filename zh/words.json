@@ -322,5 +322,41 @@
     "example_ja": "私は6歳です。",
     "audio_word": "audio/liu_word.mp3",
     "audio_example": "audio/liu_example.mp3"
+  },
+  {
+    "date": "2026-08-18",
+    "hsk": 1,
+    "zh": "七",
+    "pinyin": "qī",
+    "ja": "7、七つ",
+    "example_zh": "我有七本书。",
+    "example_pinyin": "Wǒ yǒu qī běn shū.",
+    "example_ja": "私は7冊の本を持っています。",
+    "audio_word": "audio/qi_word.mp3",
+    "audio_example": "audio/qi_example.mp3"
+  },
+  {
+    "date": "2026-08-18",
+    "hsk": 1,
+    "zh": "八",
+    "pinyin": "bā",
+    "ja": "8、八つ",
+    "example_zh": "现在八点。",
+    "example_pinyin": "Xiànzài bā diǎn.",
+    "example_ja": "今8時です。",
+    "audio_word": "audio/ba_word.mp3",
+    "audio_example": "audio/ba_example.mp3"
+  },
+  {
+    "date": "2026-08-18",
+    "hsk": 1,
+    "zh": "九",
+    "pinyin": "jiǔ",
+    "ja": "9、九つ",
+    "example_zh": "我九岁。",
+    "example_pinyin": "Wǒ jiǔ suì.",
+    "example_ja": "私は9歳です。",
+    "audio_word": "audio/jiu_word.mp3",
+    "audio_example": "audio/jiu_example.mp3"
   }
 ]
