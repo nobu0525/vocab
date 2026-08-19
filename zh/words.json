@@ -358,5 +358,41 @@
     "example_ja": "私は9歳です。",
     "audio_word": "audio/jiu_word.mp3",
     "audio_example": "audio/jiu_example.mp3"
+  },
+  {
+    "date": "2026-08-19",
+    "hsk": 1,
+    "zh": "十",
+    "pinyin": "shí",
+    "ja": "10、十",
+    "example_zh": "我十岁。",
+    "example_pinyin": "Wǒ shí suì.",
+    "example_ja": "私は10歳です。",
+    "audio_word": "audio/shi_word.mp3",
+    "audio_example": "audio/shi_example.mp3"
+  },
+  {
+    "date": "2026-08-19",
+    "hsk": 1,
+    "zh": "大",
+    "pinyin": "dà",
+    "ja": "大きい",
+    "example_zh": "这是大苹果。",
+    "example_pinyin": "Zhè shì dà píngguǒ.",
+    "example_ja": "これは大きいリンゴです。",
+    "audio_word": "audio/da_word.mp3",
+    "audio_example": "audio/da_example.mp3"
+  },
+  {
+    "date": "2026-08-19",
+    "hsk": 1,
+    "zh": "小",
+    "pinyin": "xiǎo",
+    "ja": "小さい",
+    "example_zh": "那是小狗。",
+    "example_pinyin": "Nà shì xiǎo gǒu.",
+    "example_ja": "あれは小さい犬です。",
+    "audio_word": "audio/xiao_word.mp3",
+    "audio_example": "audio/xiao_example.mp3"
   }
 ]
