@@ -394,5 +394,41 @@
     "example_ja": "あれは小さい犬です。",
     "audio_word": "audio/xiao_word.mp3",
     "audio_example": "audio/xiao_example.mp3"
+  },
+  {
+    "date": "2026-08-20",
+    "hsk": 1,
+    "zh": "看",
+    "pinyin": "kàn",
+    "ja": "見る、読む",
+    "example_zh": "我看书。",
+    "example_pinyin": "Wǒ kàn shū.",
+    "example_ja": "私は本を読みます。",
+    "audio_word": "audio/kan_word.mp3",
+    "audio_example": "audio/kan_example.mp3"
+  },
+  {
+    "date": "2026-08-20",
+    "hsk": 1,
+    "zh": "去",
+    "pinyin": "qù",
+    "ja": "行く",
+    "example_zh": "我去学校。",
+    "example_pinyin": "Wǒ qù xuéxiào.",
+    "example_ja": "私は学校に行きます。",
+    "audio_word": "audio/qu_word.mp3",
+    "audio_example": "audio/qu_example.mp3"
+  },
+  {
+    "date": "2026-08-20",
+    "hsk": 1,
+    "zh": "来",
+    "pinyin": "lái",
+    "ja": "来る",
+    "example_zh": "他来我家。",
+    "example_pinyin": "Tā lái wǒ jiā.",
+    "example_ja": "彼は私の家に来ます。",
+    "audio_word": "audio/lai_word.mp3",
+    "audio_example": "audio/lai_example.mp3"
   }
 ]
