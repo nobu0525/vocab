@@ -430,5 +430,41 @@
     "example_ja": "彼は私の家に来ます。",
     "audio_word": "audio/lai_word.mp3",
     "audio_example": "audio/lai_example.mp3"
+  },
+  {
+    "date": "2026-08-21",
+    "hsk": 1,
+    "zh": "人",
+    "pinyin": "rén",
+    "ja": "人",
+    "example_zh": "他是好人。",
+    "example_pinyin": "Tā shì hǎo rén.",
+    "example_ja": "彼は良い人です。",
+    "audio_word": "audio/ren_word.mp3",
+    "audio_example": "audio/ren_example.mp3"
+  },
+  {
+    "date": "2026-08-21",
+    "hsk": 1,
+    "zh": "谁",
+    "pinyin": "shéi",
+    "ja": "誰",
+    "example_zh": "他是谁？",
+    "example_pinyin": "Tā shì shéi?",
+    "example_ja": "彼は誰ですか？",
+    "audio_word": "audio/shei_word.mp3",
+    "audio_example": "audio/shei_example.mp3"
+  },
+  {
+    "date": "2026-08-21",
+    "hsk": 1,
+    "zh": "喜欢",
+    "pinyin": "xǐhuan",
+    "ja": "好き、好む",
+    "example_zh": "我喜欢喝水。",
+    "example_pinyin": "Wǒ xǐhuan hē shuǐ.",
+    "example_ja": "私は水を飲むのが好きです。",
+    "audio_word": "audio/xihuan_word.mp3",
+    "audio_example": "audio/xihuan_example.mp3"
   }
 ]
