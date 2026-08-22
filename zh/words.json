@@ -466,5 +466,41 @@
     "example_ja": "私は水を飲むのが好きです。",
     "audio_word": "audio/xihuan_word.mp3",
     "audio_example": "audio/xihuan_example.mp3"
+  },
+  {
+    "date": "2026-08-22",
+    "hsk": 1,
+    "zh": "猫",
+    "pinyin": "māo",
+    "ja": "猫",
+    "example_zh": "我喜欢猫。",
+    "example_pinyin": "Wǒ xǐhuan māo.",
+    "example_ja": "私は猫が好きです。",
+    "audio_word": "audio/mao_word.mp3",
+    "audio_example": "audio/mao_example.mp3"
+  },
+  {
+    "date": "2026-08-22",
+    "hsk": 1,
+    "zh": "妹妹",
+    "pinyin": "mèimei",
+    "ja": "妹",
+    "example_zh": "我妹妹很漂亮。",
+    "example_pinyin": "Wǒ mèimei hěn piàoliang.",
+    "example_ja": "私の妹はとても綺麗です。",
+    "audio_word": "audio/meimei_word.mp3",
+    "audio_example": "audio/meimei_example.mp3"
+  },
+  {
+    "date": "2026-08-22",
+    "hsk": 1,
+    "zh": "想",
+    "pinyin": "xiǎng",
+    "ja": "〜したい、思う",
+    "example_zh": "我想喝水。",
+    "example_pinyin": "Wǒ xiǎng hē shuǐ.",
+    "example_ja": "私は水が飲みたいです。",
+    "audio_word": "audio/xiang_word.mp3",
+    "audio_example": "audio/xiang_example.mp3"
   }
 ]
