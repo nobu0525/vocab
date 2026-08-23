@@ -502,5 +502,41 @@
     "example_ja": "私は水が飲みたいです。",
     "audio_word": "audio/xiang_word.mp3",
     "audio_example": "audio/xiang_example.mp3"
+  },
+  {
+    "date": "2026-08-23",
+    "hsk": 1,
+    "zh": "苹果",
+    "pinyin": "píngguǒ",
+    "ja": "リンゴ",
+    "example_zh": "我喜欢吃苹果。",
+    "example_pinyin": "Wǒ xǐhuan chī píngguǒ.",
+    "example_ja": "私はリンゴを食べるのが好きです。",
+    "audio_word": "audio/pingguo_word.mp3",
+    "audio_example": "audio/pingguo_example.mp3"
+  },
+  {
+    "date": "2026-08-23",
+    "hsk": 1,
+    "zh": "老师",
+    "pinyin": "lǎoshī",
+    "ja": "先生",
+    "example_zh": "他是老师吗？",
+    "example_pinyin": "Tā shì lǎoshī ma?",
+    "example_ja": "彼は先生ですか？",
+    "audio_word": "audio/laoshi_word.mp3",
+    "audio_example": "audio/laoshi_example.mp3"
+  },
+  {
+    "date": "2026-08-23",
+    "hsk": 1,
+    "zh": "家",
+    "pinyin": "jiā",
+    "ja": "家、家族",
+    "example_zh": "我家很大。",
+    "example_pinyin": "Wǒ jiā hěn dà.",
+    "example_ja": "私の家は大きいです。",
+    "audio_word": "audio/jia_word.mp3",
+    "audio_example": "audio/jia_example.mp3"
   }
 ]
