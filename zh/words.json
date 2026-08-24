@@ -538,5 +538,41 @@
     "example_ja": "私の家は大きいです。",
     "audio_word": "audio/jia_word.mp3",
     "audio_example": "audio/jia_example.mp3"
+  },
+  {
+    "date": "2026-08-24",
+    "hsk": 1,
+    "zh": "她",
+    "pinyin": "tā",
+    "ja": "彼女",
+    "example_zh": "她是我妈妈。",
+    "example_pinyin": "Tā shì wǒ māma.",
+    "example_ja": "彼女は私の母です。",
+    "audio_word": "audio/ta2_word.mp3",
+    "audio_example": "audio/ta2_example.mp3"
+  },
+  {
+    "date": "2026-08-24",
+    "hsk": 1,
+    "zh": "有",
+    "pinyin": "yǒu",
+    "ja": "持つ、ある、いる",
+    "example_zh": "我有猫。",
+    "example_pinyin": "Wǒ yǒu māo.",
+    "example_ja": "私は猫を飼っています。",
+    "audio_word": "audio/you_word.mp3",
+    "audio_example": "audio/you_example.mp3"
+  },
+  {
+    "date": "2026-08-24",
+    "hsk": 1,
+    "zh": "现在",
+    "pinyin": "xiànzài",
+    "ja": "今",
+    "example_zh": "现在几点？",
+    "example_pinyin": "Xiànzài jǐ diǎn?",
+    "example_ja": "今何時ですか？",
+    "audio_word": "audio/xianzai_word.mp3",
+    "audio_example": "audio/xianzai_example.mp3"
   }
 ]
