@@ -574,5 +574,41 @@
     "example_ja": "今何時ですか？",
     "audio_word": "audio/xianzai_word.mp3",
     "audio_example": "audio/xianzai_example.mp3"
+  },
+  {
+    "date": "2026-08-25",
+    "hsk": 1,
+    "zh": "学校",
+    "pinyin": "xuéxiào",
+    "ja": "学校",
+    "example_zh": "我的学校很大。",
+    "example_pinyin": "Wǒ de xuéxiào hěn dà.",
+    "example_ja": "私の学校は大きいです。",
+    "audio_word": "audio/xuexiao_word.mp3",
+    "audio_example": "audio/xuexiao_example.mp3"
+  },
+  {
+    "date": "2026-08-25",
+    "hsk": 1,
+    "zh": "女儿",
+    "pinyin": "nǚ'ér",
+    "ja": "娘",
+    "example_zh": "我有一个女儿。",
+    "example_pinyin": "Wǒ yǒu yí gè nǚ'ér.",
+    "example_ja": "私には娘が一人います。",
+    "audio_word": "audio/nver_word.mp3",
+    "audio_example": "audio/nver_example.mp3"
+  },
+  {
+    "date": "2026-08-25",
+    "hsk": 1,
+    "zh": "高兴",
+    "pinyin": "gāoxìng",
+    "ja": "嬉しい",
+    "example_zh": "我很高兴。",
+    "example_pinyin": "Wǒ hěn gāoxìng.",
+    "example_ja": "私はとても嬉しいです。",
+    "audio_word": "audio/gaoxing_word.mp3",
+    "audio_example": "audio/gaoxing_example.mp3"
   }
 ]
