@@ -610,5 +610,41 @@
     "example_ja": "私はとても嬉しいです。",
     "audio_word": "audio/gaoxing_word.mp3",
     "audio_example": "audio/gaoxing_example.mp3"
+  },
+  {
+    "date": "2026-08-26",
+    "hsk": 1,
+    "zh": "很",
+    "pinyin": "hěn",
+    "ja": "とても",
+    "example_zh": "我很好。",
+    "example_pinyin": "Wǒ hěn hǎo.",
+    "example_ja": "私はとても元気です。",
+    "audio_word": "audio/hen_word.mp3",
+    "audio_example": "audio/hen_example.mp3"
+  },
+  {
+    "date": "2026-08-26",
+    "hsk": 1,
+    "zh": "今天",
+    "pinyin": "jīntiān",
+    "ja": "今日",
+    "example_zh": "今天我很高兴。",
+    "example_pinyin": "Jīntiān wǒ hěn gāoxìng.",
+    "example_ja": "今日私はとても嬉しいです。",
+    "audio_word": "audio/jintian_word.mp3",
+    "audio_example": "audio/jintian_example.mp3"
+  },
+  {
+    "date": "2026-08-26",
+    "hsk": 1,
+    "zh": "明天",
+    "pinyin": "míngtiān",
+    "ja": "明日",
+    "example_zh": "明天我去学校。",
+    "example_pinyin": "Míngtiān wǒ qù xuéxiào.",
+    "example_ja": "明日私は学校へ行きます。",
+    "audio_word": "audio/mingtian_word.mp3",
+    "audio_example": "audio/mingtian_example.mp3"
   }
 ]
