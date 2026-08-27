@@ -646,5 +646,41 @@
     "example_ja": "明日私は学校へ行きます。",
     "audio_word": "audio/mingtian_word.mp3",
     "audio_example": "audio/mingtian_example.mp3"
+  },
+  {
+    "date": "2026-08-27",
+    "hsk": 1,
+    "zh": "儿子",
+    "pinyin": "érzi",
+    "ja": "息子",
+    "example_zh": "我儿子六岁。",
+    "example_pinyin": "Wǒ érzi liù suì.",
+    "example_ja": "私の息子は6歳です。",
+    "audio_word": "audio/erzi_word.mp3",
+    "audio_example": "audio/erzi_example.mp3"
+  },
+  {
+    "date": "2026-08-27",
+    "hsk": 1,
+    "zh": "昨天",
+    "pinyin": "zuótiān",
+    "ja": "昨日",
+    "example_zh": "昨天天气很好。",
+    "example_pinyin": "Zuótiān tiānqì hěn hǎo.",
+    "example_ja": "昨日は天気が良かったです。",
+    "audio_word": "audio/zuotian_word.mp3",
+    "audio_example": "audio/zuotian_example.mp3"
+  },
+  {
+    "date": "2026-08-27",
+    "hsk": 1,
+    "zh": "多少",
+    "pinyin": "duōshao",
+    "ja": "どのくらい、いくつ",
+    "example_zh": "你家有多少人？",
+    "example_pinyin": "Nǐ jiā yǒu duōshao rén?",
+    "example_ja": "あなたの家には何人いますか？",
+    "audio_word": "audio/duoshao_word.mp3",
+    "audio_example": "audio/duoshao_example.mp3"
   }
 ]
