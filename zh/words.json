@@ -682,5 +682,41 @@
     "example_ja": "あなたの家には何人いますか？",
     "audio_word": "audio/duoshao_word.mp3",
     "audio_example": "audio/duoshao_example.mp3"
+  },
+  {
+    "date": "2026-08-28",
+    "hsk": 1,
+    "zh": "漂亮",
+    "pinyin": "piàoliang",
+    "ja": "綺麗、美しい",
+    "example_zh": "你的猫很漂亮。",
+    "example_pinyin": "Nǐ de māo hěn piàoliang.",
+    "example_ja": "あなたの猫はとても綺麗です。",
+    "audio_word": "audio/piaoliang_word.mp3",
+    "audio_example": "audio/piaoliang_example.mp3"
+  },
+  {
+    "date": "2026-08-28",
+    "hsk": 1,
+    "zh": "岁",
+    "pinyin": "suì",
+    "ja": "〜歳",
+    "example_zh": "我女儿三岁。",
+    "example_pinyin": "Wǒ nǚ'ér sān suì.",
+    "example_ja": "私の娘は3歳です。",
+    "audio_word": "audio/sui_word.mp3",
+    "audio_example": "audio/sui_example.mp3"
+  },
+  {
+    "date": "2026-08-28",
+    "hsk": 1,
+    "zh": "名字",
+    "pinyin": "míngzi",
+    "ja": "名前",
+    "example_zh": "他叫什么名字？",
+    "example_pinyin": "Tā jiào shénme míngzi?",
+    "example_ja": "彼の名前は何ですか？",
+    "audio_word": "audio/mingzi_word.mp3",
+    "audio_example": "audio/mingzi_example.mp3"
   }
 ]
