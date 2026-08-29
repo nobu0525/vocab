@@ -718,5 +718,41 @@
     "example_ja": "彼の名前は何ですか？",
     "audio_word": "audio/mingzi_word.mp3",
     "audio_example": "audio/mingzi_example.mp3"
+  },
+  {
+    "date": "2026-08-29",
+    "hsk": 1,
+    "zh": "学生",
+    "pinyin": "xuésheng",
+    "ja": "学生",
+    "example_zh": "我是学生。",
+    "example_pinyin": "Wǒ shì xuésheng.",
+    "example_ja": "私は学生です。",
+    "audio_word": "audio/xuesheng_word.mp3",
+    "audio_example": "audio/xuesheng_example.mp3"
+  },
+  {
+    "date": "2026-08-29",
+    "hsk": 1,
+    "zh": "买",
+    "pinyin": "mǎi",
+    "ja": "買う",
+    "example_zh": "我想买苹果。",
+    "example_pinyin": "Wǒ xiǎng mǎi píngguǒ.",
+    "example_ja": "私はリンゴを買いたいです。",
+    "audio_word": "audio/mai_word.mp3",
+    "audio_example": "audio/mai_example.mp3"
+  },
+  {
+    "date": "2026-08-29",
+    "hsk": 1,
+    "zh": "太",
+    "pinyin": "tài",
+    "ja": "とても、〜すぎる",
+    "example_zh": "我太高兴了。",
+    "example_pinyin": "Wǒ tài gāoxìng le.",
+    "example_ja": "私は本当に嬉しいです。",
+    "audio_word": "audio/tai_word.mp3",
+    "audio_example": "audio/tai_example.mp3"
   }
 ]
