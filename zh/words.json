@@ -754,5 +754,41 @@
     "example_ja": "私は本当に嬉しいです。",
     "audio_word": "audio/tai_word.mp3",
     "audio_example": "audio/tai_example.mp3"
+  },
+  {
+    "date": "2026-08-30",
+    "hsk": 1,
+    "zh": "天气",
+    "pinyin": "tiānqì",
+    "ja": "天気",
+    "example_zh": "今天天气不好。",
+    "example_pinyin": "Jīntiān tiānqì bù hǎo.",
+    "example_ja": "今日は天気が良くないです。",
+    "audio_word": "audio/tianqi_word.mp3",
+    "audio_example": "audio/tianqi_example.mp3"
+  },
+  {
+    "date": "2026-08-30",
+    "hsk": 1,
+    "zh": "喂",
+    "pinyin": "wèi",
+    "ja": "もしもし（電話で）",
+    "example_zh": "喂，你好！",
+    "example_pinyin": "Wèi, nǐ hǎo!",
+    "example_ja": "もしもし、こんにちは！",
+    "audio_word": "audio/wei_word.mp3",
+    "audio_example": "audio/wei_example.mp3"
+  },
+  {
+    "date": "2026-08-30",
+    "hsk": 1,
+    "zh": "同学",
+    "pinyin": "tóngxué",
+    "ja": "クラスメート、学友",
+    "example_zh": "他是我的同学。",
+    "example_pinyin": "Tā shì wǒ de tóngxué.",
+    "example_ja": "彼は私のクラスメートです。",
+    "audio_word": "audio/tongxue_word.mp3",
+    "audio_example": "audio/tongxue_example.mp3"
   }
 ]
