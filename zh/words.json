@@ -790,5 +790,41 @@
     "example_ja": "彼は私のクラスメートです。",
     "audio_word": "audio/tongxue_word.mp3",
     "audio_example": "audio/tongxue_example.mp3"
+  },
+  {
+    "date": "2026-08-31",
+    "hsk": 1,
+    "zh": "什么",
+    "pinyin": "shénme",
+    "ja": "何",
+    "example_zh": "这是什么？",
+    "example_pinyin": "Zhè shì shénme?",
+    "example_ja": "これは何ですか？",
+    "audio_word": "audio/shenme_word.mp3",
+    "audio_example": "audio/shenme_example.mp3"
+  },
+  {
+    "date": "2026-08-31",
+    "hsk": 1,
+    "zh": "哪儿",
+    "pinyin": "nǎr",
+    "ja": "どこ",
+    "example_zh": "你去哪儿？",
+    "example_pinyin": "Nǐ qù nǎr?",
+    "example_ja": "あなたはどこへ行きますか？",
+    "audio_word": "audio/nar_word.mp3",
+    "audio_example": "audio/nar_example.mp3"
+  },
+  {
+    "date": "2026-08-31",
+    "hsk": 1,
+    "zh": "不客气",
+    "pinyin": "bú kèqi",
+    "ja": "どういたしまして",
+    "example_zh": "不客气，再见。",
+    "example_pinyin": "Bú kèqi, zàijiàn.",
+    "example_ja": "どういたしまして、さようなら。",
+    "audio_word": "audio/bukeqi_word.mp3",
+    "audio_example": "audio/bukeqi_example.mp3"
   }
 ]
