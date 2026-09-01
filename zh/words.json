@@ -826,5 +826,41 @@
     "example_ja": "どういたしまして、さようなら。",
     "audio_word": "audio/bukeqi_word.mp3",
     "audio_example": "audio/bukeqi_example.mp3"
+  },
+  {
+    "date": "2026-09-01",
+    "hsk": 1,
+    "zh": "狗",
+    "pinyin": "gǒu",
+    "ja": "犬",
+    "example_zh": "我家有一只狗。",
+    "example_pinyin": "Wǒ jiā yǒu yì zhī gǒu.",
+    "example_ja": "私の家には犬が一匹います。",
+    "audio_word": "audio/gou_word.mp3",
+    "audio_example": "audio/gou_example.mp3"
+  },
+  {
+    "date": "2026-09-01",
+    "hsk": 1,
+    "zh": "书",
+    "pinyin": "shū",
+    "ja": "本",
+    "example_zh": "这本书很好。",
+    "example_pinyin": "Zhè běn shū hěn hǎo.",
+    "example_ja": "この本はとても良いです。",
+    "audio_word": "audio/shu_word.mp3",
+    "audio_example": "audio/shu_example.mp3"
+  },
+  {
+    "date": "2026-09-01",
+    "hsk": 1,
+    "zh": "哥哥",
+    "pinyin": "gēge",
+    "ja": "兄、お兄さん",
+    "example_zh": "我哥哥是老师。",
+    "example_pinyin": "Wǒ gēge shì lǎoshī.",
+    "example_ja": "私の兄は先生です。",
+    "audio_word": "audio/gege_word.mp3",
+    "audio_example": "audio/gege_example.mp3"
   }
 ]
