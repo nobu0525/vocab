@@ -862,5 +862,41 @@
     "example_ja": "私の兄は先生です。",
     "audio_word": "audio/gege_word.mp3",
     "audio_example": "audio/gege_example.mp3"
+  },
+  {
+    "date": "2026-09-02",
+    "hsk": 1,
+    "zh": "爱",
+    "pinyin": "ài",
+    "ja": "愛する、大好き",
+    "example_zh": "我爱你。",
+    "example_pinyin": "Wǒ ài nǐ.",
+    "example_ja": "私はあなたを愛しています。",
+    "audio_word": "audio/ai_word.mp3",
+    "audio_example": "audio/ai_example.mp3"
+  },
+  {
+    "date": "2026-09-02",
+    "hsk": 1,
+    "zh": "星期",
+    "pinyin": "xīngqī",
+    "ja": "週、曜日",
+    "example_zh": "今天星期几？",
+    "example_pinyin": "Jīntiān xīngqī jǐ?",
+    "example_ja": "今日は何曜日ですか？",
+    "audio_word": "audio/xingqi_word.mp3",
+    "audio_example": "audio/xingqi_example.mp3"
+  },
+  {
+    "date": "2026-09-02",
+    "hsk": 1,
+    "zh": "医院",
+    "pinyin": "yīyuàn",
+    "ja": "病院",
+    "example_zh": "我去医院。",
+    "example_pinyin": "Wǒ qù yīyuàn.",
+    "example_ja": "私は病院へ行きます。",
+    "audio_word": "audio/yiyuan_word.mp3",
+    "audio_example": "audio/yiyuan_example.mp3"
   }
 ]
