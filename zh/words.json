@@ -898,5 +898,41 @@
     "example_ja": "私は病院へ行きます。",
     "audio_word": "audio/yiyuan_word.mp3",
     "audio_example": "audio/yiyuan_example.mp3"
+  },
+  {
+    "date": "2026-09-03",
+    "hsk": 1,
+    "zh": "我们",
+    "pinyin": "wǒmen",
+    "ja": "私たち",
+    "example_zh": "我们是朋友。",
+    "example_pinyin": "Wǒmen shì péngyou.",
+    "example_ja": "私たちは友達です。",
+    "audio_word": "audio/women_word.mp3",
+    "audio_example": "audio/women_example.mp3"
+  },
+  {
+    "date": "2026-09-03",
+    "hsk": 1,
+    "zh": "在",
+    "pinyin": "zài",
+    "ja": "〜にいる、〜にある",
+    "example_zh": "我在家。",
+    "example_pinyin": "Wǒ zài jiā.",
+    "example_ja": "私は家にいます。",
+    "audio_word": "audio/zai_word.mp3",
+    "audio_example": "audio/zai_example.mp3"
+  },
+  {
+    "date": "2026-09-03",
+    "hsk": 1,
+    "zh": "冷",
+    "pinyin": "lěng",
+    "ja": "寒い",
+    "example_zh": "今天很冷。",
+    "example_pinyin": "Jīntiān hěn lěng.",
+    "example_ja": "今日はとても寒いです。",
+    "audio_word": "audio/leng_word.mp3",
+    "audio_example": "audio/leng_example.mp3"
   }
 ]
