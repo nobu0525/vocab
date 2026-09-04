@@ -934,5 +934,41 @@
     "example_ja": "今日はとても寒いです。",
     "audio_word": "audio/leng_word.mp3",
     "audio_example": "audio/leng_example.mp3"
+  },
+  {
+    "date": "2026-09-04",
+    "hsk": 1,
+    "zh": "茶",
+    "pinyin": "chá",
+    "ja": "お茶",
+    "example_zh": "我喜欢喝茶。",
+    "example_pinyin": "Wǒ xǐhuan hē chá.",
+    "example_ja": "私はお茶を飲むのが好きです。",
+    "audio_word": "audio/cha_word.mp3",
+    "audio_example": "audio/cha_example.mp3"
+  },
+  {
+    "date": "2026-09-04",
+    "hsk": 1,
+    "zh": "米饭",
+    "pinyin": "mǐfàn",
+    "ja": "ご飯",
+    "example_zh": "我吃米饭。",
+    "example_pinyin": "Wǒ chī mǐfàn.",
+    "example_ja": "私はご飯を食べます。",
+    "audio_word": "audio/mifan_word.mp3",
+    "audio_example": "audio/mifan_example.mp3"
+  },
+  {
+    "date": "2026-09-04",
+    "hsk": 1,
+    "zh": "衣服",
+    "pinyin": "yīfu",
+    "ja": "服",
+    "example_zh": "这是我的衣服。",
+    "example_pinyin": "Zhè shì wǒ de yīfu.",
+    "example_ja": "これは私の服です。",
+    "audio_word": "audio/yifu_word.mp3",
+    "audio_example": "audio/yifu_example.mp3"
   }
 ]
