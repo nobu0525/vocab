@@ -1006,5 +1006,41 @@
     "example_ja": "これは私の椅子です。",
     "audio_word": "audio/yizi_word.mp3",
     "audio_example": "audio/yizi_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "杯子",
+    "pinyin": "bēizi",
+    "ja": "コップ、カップ",
+    "example_zh": "这是我的杯子。",
+    "example_pinyin": "Zhè shì wǒ de bēizi.",
+    "example_ja": "これは私のコップです。",
+    "audio_word": "audio/beizi_word.mp3",
+    "audio_example": "audio/beizi_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "桌子",
+    "pinyin": "zhuōzi",
+    "ja": "テーブル、机",
+    "example_zh": "这是桌子。",
+    "example_pinyin": "Zhè shì zhuōzi.",
+    "example_ja": "これは机です。",
+    "audio_word": "audio/zhuozi_word.mp3",
+    "audio_example": "audio/zhuozi_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "钱",
+    "pinyin": "qián",
+    "ja": "お金",
+    "example_zh": "我有钱。",
+    "example_pinyin": "Wǒ yǒu qián.",
+    "example_ja": "私はお金を持っています。",
+    "audio_word": "audio/qian_word.mp3",
+    "audio_example": "audio/qian_example.mp3"
   }
 ]
