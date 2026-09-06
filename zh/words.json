@@ -970,5 +970,41 @@
     "example_ja": "これは私の服です。",
     "audio_word": "audio/yifu_word.mp3",
     "audio_example": "audio/yifu_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "医生",
+    "pinyin": "yīshēng",
+    "ja": "医者",
+    "example_zh": "我爸爸是医生。",
+    "example_pinyin": "Wǒ bàba shì yīshēng.",
+    "example_ja": "私の父は医者です。",
+    "audio_word": "audio/yisheng_word.mp3",
+    "audio_example": "audio/yisheng_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "商店",
+    "pinyin": "shāngdiàn",
+    "ja": "お店",
+    "example_zh": "我去商店。",
+    "example_pinyin": "Wǒ qù shāngdiàn.",
+    "example_ja": "私はお店へ行きます。",
+    "audio_word": "audio/shangdian_word.mp3",
+    "audio_example": "audio/shangdian_example.mp3"
+  },
+  {
+    "date": "2026-09-06",
+    "hsk": 1,
+    "zh": "椅子",
+    "pinyin": "yǐzi",
+    "ja": "椅子",
+    "example_zh": "这是我的椅子。",
+    "example_pinyin": "Zhè shì wǒ de yǐzi.",
+    "example_ja": "これは私の椅子です。",
+    "audio_word": "audio/yizi_word.mp3",
+    "audio_example": "audio/yizi_example.mp3"
   }
 ]
