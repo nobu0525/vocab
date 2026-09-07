@@ -1042,5 +1042,41 @@
     "example_ja": "私はお金を持っています。",
     "audio_word": "audio/qian_word.mp3",
     "audio_example": "audio/qian_example.mp3"
+  },
+  {
+    "date": "2026-09-07",
+    "hsk": 1,
+    "zh": "中国",
+    "pinyin": "Zhōngguó",
+    "ja": "中国",
+    "example_zh": "我去中国。",
+    "example_pinyin": "Wǒ qù Zhōngguó.",
+    "example_ja": "私は中国へ行きます。",
+    "audio_word": "audio/zhongguo_word.mp3",
+    "audio_example": "audio/zhongguo_example.mp3"
+  },
+  {
+    "date": "2026-09-07",
+    "hsk": 1,
+    "zh": "电视",
+    "pinyin": "diànshì",
+    "ja": "テレビ",
+    "example_zh": "我看电视。",
+    "example_pinyin": "Wǒ kàn diànshì.",
+    "example_ja": "私はテレビを見ます。",
+    "audio_word": "audio/dianshi_word.mp3",
+    "audio_example": "audio/dianshi_example.mp3"
+  },
+  {
+    "date": "2026-09-07",
+    "hsk": 1,
+    "zh": "睡觉",
+    "pinyin": "shuìjiào",
+    "ja": "寝る",
+    "example_zh": "我睡觉。",
+    "example_pinyin": "Wǒ shuìjiào.",
+    "example_ja": "私は寝ます。",
+    "audio_word": "audio/shuijiao_word.mp3",
+    "audio_example": "audio/shuijiao_example.mp3"
   }
 ]
