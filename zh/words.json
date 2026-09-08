@@ -1078,5 +1078,41 @@
     "example_ja": "私は寝ます。",
     "audio_word": "audio/shuijiao_word.mp3",
     "audio_example": "audio/shuijiao_example.mp3"
+  },
+  {
+    "date": "2026-09-08",
+    "hsk": 1,
+    "zh": "电脑",
+    "pinyin": "diànnǎo",
+    "ja": "コンピューター、パソコン",
+    "example_zh": "这是我的电脑。",
+    "example_pinyin": "Zhè shì wǒ de diànnǎo.",
+    "example_ja": "これは私のパソコンです。",
+    "audio_word": "audio/diannao_word.mp3",
+    "audio_example": "audio/diannao_example.mp3"
+  },
+  {
+    "date": "2026-09-08",
+    "hsk": 1,
+    "zh": "电影",
+    "pinyin": "diànyǐng",
+    "ja": "映画",
+    "example_zh": "我喜欢看电影。",
+    "example_pinyin": "Wǒ xǐhuan kàn diànyǐng.",
+    "example_ja": "私は映画を見るのが好きです。",
+    "audio_word": "audio/dianying_word.mp3",
+    "audio_example": "audio/dianying_example.mp3"
+  },
+  {
+    "date": "2026-09-08",
+    "hsk": 1,
+    "zh": "飞机",
+    "pinyin": "fēijī",
+    "ja": "飛行機",
+    "example_zh": "那是飞机。",
+    "example_pinyin": "Nà shì fēijī.",
+    "example_ja": "あれは飛行機です。",
+    "audio_word": "audio/feiji_word.mp3",
+    "audio_example": "audio/feiji_example.mp3"
   }
 ]
