@@ -1114,5 +1114,41 @@
     "example_ja": "あれは飛行機です。",
     "audio_word": "audio/feiji_word.mp3",
     "audio_example": "audio/feiji_example.mp3"
+  },
+  {
+    "date": "2026-09-09",
+    "hsk": 1,
+    "zh": "的",
+    "pinyin": "de",
+    "ja": "〜の（所有・修飾を表す助詞）",
+    "example_zh": "那是我的杯子。",
+    "example_pinyin": "Nà shì wǒ de bēizi.",
+    "example_ja": "あれは私のコップです。",
+    "audio_word": "audio/de_word.mp3",
+    "audio_example": "audio/de_example.mp3"
+  },
+  {
+    "date": "2026-09-09",
+    "hsk": 1,
+    "zh": "了",
+    "pinyin": "le",
+    "ja": "〜した（動作の完了・状態の変化を表す助詞）",
+    "example_zh": "他去学校了。",
+    "example_pinyin": "Tā qù xuéxiào le.",
+    "example_ja": "彼は学校へ行きました。",
+    "audio_word": "audio/le_word.mp3",
+    "audio_example": "audio/le_example.mp3"
+  },
+  {
+    "date": "2026-09-09",
+    "hsk": 1,
+    "zh": "个",
+    "pinyin": "gè",
+    "ja": "〜個（人や物を数える最も一般的な量詞）",
+    "example_zh": "我想买一个杯子。",
+    "example_pinyin": "Wǒ xiǎng mǎi yí gè bēizi.",
+    "example_ja": "私はコップを一つ買いたいです。",
+    "audio_word": "audio/ge_word.mp3",
+    "audio_example": "audio/ge_example.mp3"
   }
 ]
