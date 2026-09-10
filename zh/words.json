@@ -1150,5 +1150,41 @@
     "example_ja": "私はコップを一つ買いたいです。",
     "audio_word": "audio/ge_word.mp3",
     "audio_example": "audio/ge_example.mp3"
+  },
+  {
+    "date": "2026-09-10",
+    "hsk": 1,
+    "zh": "号",
+    "pinyin": "hào",
+    "ja": "〜日（日付）、番号",
+    "example_zh": "今天几号？",
+    "example_pinyin": "Jīntiān jǐ hào?",
+    "example_ja": "今日は何日ですか？",
+    "audio_word": "audio/hao2_word.mp3",
+    "audio_example": "audio/hao2_example.mp3"
+  },
+  {
+    "date": "2026-09-10",
+    "hsk": 1,
+    "zh": "月",
+    "pinyin": "yuè",
+    "ja": "月",
+    "example_zh": "现在是三月。",
+    "example_pinyin": "Xiànzài shì sān yuè.",
+    "example_ja": "今は3月です。",
+    "audio_word": "audio/yue_word.mp3",
+    "audio_example": "audio/yue_example.mp3"
+  },
+  {
+    "date": "2026-09-10",
+    "hsk": 1,
+    "zh": "年",
+    "pinyin": "nián",
+    "ja": "年",
+    "example_zh": "我今年十岁。",
+    "example_pinyin": "Wǒ jīnnián shí suì.",
+    "example_ja": "私は今年10歳です。",
+    "audio_word": "audio/nian_word.mp3",
+    "audio_example": "audio/nian_example.mp3"
   }
 ]
