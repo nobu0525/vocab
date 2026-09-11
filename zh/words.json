@@ -1186,5 +1186,41 @@
     "example_ja": "私は今年10歳です。",
     "audio_word": "audio/nian_word.mp3",
     "audio_example": "audio/nian_example.mp3"
+  },
+  {
+    "date": "2026-09-11",
+    "hsk": 1,
+    "zh": "叫",
+    "pinyin": "jiào",
+    "ja": "〜と呼ばれる、〜という名前だ",
+    "example_zh": "我叫田中。",
+    "example_pinyin": "Wǒ jiào Tiánzhōng.",
+    "example_ja": "私は田中と申します。",
+    "audio_word": "audio/jiao_word.mp3",
+    "audio_example": "audio/jiao_example.mp3"
+  },
+  {
+    "date": "2026-09-11",
+    "hsk": 1,
+    "zh": "几",
+    "pinyin": "jǐ",
+    "ja": "いくつ、何（10以下の数を尋ねる）",
+    "example_zh": "你有几个苹果？",
+    "example_pinyin": "Nǐ yǒu jǐ gè píngguǒ?",
+    "example_ja": "あなたはリンゴをいくつ持っていますか？",
+    "audio_word": "audio/ji_word.mp3",
+    "audio_example": "audio/ji_example.mp3"
+  },
+  {
+    "date": "2026-09-11",
+    "hsk": 1,
+    "zh": "认识",
+    "pinyin": "rènshi",
+    "ja": "知り合う、知っている",
+    "example_zh": "我认识她。",
+    "example_pinyin": "Wǒ rènshi tā.",
+    "example_ja": "私は彼女を知っています。",
+    "audio_word": "audio/renshi_word.mp3",
+    "audio_example": "audio/renshi_example.mp3"
   }
 ]
