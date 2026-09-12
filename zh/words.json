@@ -1222,5 +1222,41 @@
     "example_ja": "私は彼女を知っています。",
     "audio_word": "audio/renshi_word.mp3",
     "audio_example": "audio/renshi_example.mp3"
+  },
+  {
+    "date": "2026-09-12",
+    "hsk": 1,
+    "zh": "水果",
+    "pinyin": "shuǐguǒ",
+    "ja": "フルーツ、果物",
+    "example_zh": "我喜欢吃水果。",
+    "example_pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "example_ja": "私は果物を食べるのが好きです。",
+    "audio_word": "audio/shuiguo_word.mp3",
+    "audio_example": "audio/shuiguo_example.mp3"
+  },
+  {
+    "date": "2026-09-12",
+    "hsk": 1,
+    "zh": "工作",
+    "pinyin": "gōngzuò",
+    "ja": "仕事、働く",
+    "example_zh": "我去工作。",
+    "example_pinyin": "Wǒ qù gōngzuò.",
+    "example_ja": "私は仕事に行きます。",
+    "audio_word": "audio/gongzuo_word.mp3",
+    "audio_example": "audio/gongzuo_example.mp3"
+  },
+  {
+    "date": "2026-09-12",
+    "hsk": 1,
+    "zh": "东西",
+    "pinyin": "dōngxi",
+    "ja": "もの、品物",
+    "example_zh": "这是什么东西？",
+    "example_pinyin": "Zhè shì shénme dōngxi?",
+    "example_ja": "これは何ですか？",
+    "audio_word": "audio/dongxi_word.mp3",
+    "audio_example": "audio/dongxi_example.mp3"
   }
 ]
