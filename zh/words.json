@@ -1258,5 +1258,41 @@
     "example_ja": "これは何ですか？",
     "audio_word": "audio/dongxi_word.mp3",
     "audio_example": "audio/dongxi_example.mp3"
+  },
+  {
+    "date": "2026-09-13",
+    "hsk": 1,
+    "zh": "姐姐",
+    "pinyin": "jiějie",
+    "ja": "お姉さん",
+    "example_zh": "我姐姐很漂亮。",
+    "example_pinyin": "Wǒ jiějie hěn piàoliang.",
+    "example_ja": "私の姉はとても綺麗です。",
+    "audio_word": "audio/jiejie_word.mp3",
+    "audio_example": "audio/jiejie_example.mp3"
+  },
+  {
+    "date": "2026-09-13",
+    "hsk": 1,
+    "zh": "说",
+    "pinyin": "shuō",
+    "ja": "話す、言う",
+    "example_zh": "我说汉语。",
+    "example_pinyin": "Wǒ shuō Hànyǔ.",
+    "example_ja": "私は中国語を話します。",
+    "audio_word": "audio/shuo_word.mp3",
+    "audio_example": "audio/shuo_example.mp3"
+  },
+  {
+    "date": "2026-09-13",
+    "hsk": 1,
+    "zh": "汉语",
+    "pinyin": "Hànyǔ",
+    "ja": "中国語",
+    "example_zh": "你说汉语吗？",
+    "example_pinyin": "Nǐ shuō Hànyǔ ma?",
+    "example_ja": "あなたは中国語を話しますか？",
+    "audio_word": "audio/hanyu_word.mp3",
+    "audio_example": "audio/hanyu_example.mp3"
   }
 ]
