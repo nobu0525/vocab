@@ -1294,5 +1294,41 @@
     "example_ja": "あなたは中国語を話しますか？",
     "audio_word": "audio/hanyu_word.mp3",
     "audio_example": "audio/hanyu_example.mp3"
+  },
+  {
+    "date": "2026-09-14",
+    "hsk": 1,
+    "zh": "多",
+    "pinyin": "duō",
+    "ja": "多い、たくさん",
+    "example_zh": "我有很多书。",
+    "example_pinyin": "Wǒ yǒu hěn duō shū.",
+    "example_ja": "私はたくさんの本を持っています。",
+    "audio_word": "audio/duo_word.mp3",
+    "audio_example": "audio/duo_example.mp3"
+  },
+  {
+    "date": "2026-09-14",
+    "hsk": 1,
+    "zh": "少",
+    "pinyin": "shǎo",
+    "ja": "少ない",
+    "example_zh": "我的钱很少。",
+    "example_pinyin": "Wǒ de qián hěn shǎo.",
+    "example_ja": "私のお金はとても少ないです。",
+    "audio_word": "audio/shao_word.mp3",
+    "audio_example": "audio/shao_example.mp3"
+  },
+  {
+    "date": "2026-09-14",
+    "hsk": 1,
+    "zh": "坐",
+    "pinyin": "zuò",
+    "ja": "座る",
+    "example_zh": "他坐在椅子上。",
+    "example_pinyin": "Tā zuò zài yǐzi shàng.",
+    "example_ja": "彼は椅子に座っています。",
+    "audio_word": "audio/zuo_word.mp3",
+    "audio_example": "audio/zuo_example.mp3"
   }
 ]
