@@ -1330,5 +1330,41 @@
     "example_ja": "彼は椅子に座っています。",
     "audio_word": "audio/zuo_word.mp3",
     "audio_example": "audio/zuo_example.mp3"
+  },
+  {
+    "date": "2026-09-15",
+    "hsk": 1,
+    "zh": "没有",
+    "pinyin": "méiyǒu",
+    "ja": "ない、持っていない",
+    "example_zh": "我没有钱。",
+    "example_pinyin": "Wǒ méiyǒu qián.",
+    "example_ja": "私はお金がありません。",
+    "audio_word": "audio/meiyou_word.mp3",
+    "audio_example": "audio/meiyou_example.mp3"
+  },
+  {
+    "date": "2026-09-15",
+    "hsk": 1,
+    "zh": "热",
+    "pinyin": "rè",
+    "ja": "暑い",
+    "example_zh": "今天很热。",
+    "example_pinyin": "Jīntiān hěn rè.",
+    "example_ja": "今日はとても暑いです。",
+    "audio_word": "audio/re_word.mp3",
+    "audio_example": "audio/re_example.mp3"
+  },
+  {
+    "date": "2026-09-15",
+    "hsk": 1,
+    "zh": "早上",
+    "pinyin": "zǎoshang",
+    "ja": "朝",
+    "example_zh": "我早上喝茶。",
+    "example_pinyin": "Wǒ zǎoshang hē chá.",
+    "example_ja": "私は朝お茶を飲みます。",
+    "audio_word": "audio/zaoshang_word.mp3",
+    "audio_example": "audio/zaoshang_example.mp3"
   }
 ]
