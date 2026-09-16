@@ -1366,5 +1366,41 @@
     "example_ja": "私は朝お茶を飲みます。",
     "audio_word": "audio/zaoshang_word.mp3",
     "audio_example": "audio/zaoshang_example.mp3"
+  },
+  {
+    "date": "2026-09-16",
+    "hsk": 1,
+    "zh": "都",
+    "pinyin": "dōu",
+    "ja": "みんな、すべて",
+    "example_zh": "我们都是学生。",
+    "example_pinyin": "Wǒmen dōu shì xuésheng.",
+    "example_ja": "私たちはみんな学生です。",
+    "audio_word": "audio/dou_word.mp3",
+    "audio_example": "audio/dou_example.mp3"
+  },
+  {
+    "date": "2026-09-16",
+    "hsk": 1,
+    "zh": "会",
+    "pinyin": "huì",
+    "ja": "できる（習得して〜できる）",
+    "example_zh": "我会说汉语。",
+    "example_pinyin": "Wǒ huì shuō Hànyǔ.",
+    "example_ja": "私は中国語が話せます。",
+    "audio_word": "audio/hui_word.mp3",
+    "audio_example": "audio/hui_example.mp3"
+  },
+  {
+    "date": "2026-09-16",
+    "hsk": 1,
+    "zh": "呢",
+    "pinyin": "ne",
+    "ja": "〜は？（省略疑問を表す助詞）",
+    "example_zh": "我很好，你呢？",
+    "example_pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "example_ja": "私は元気です、あなたは？",
+    "audio_word": "audio/ne_word.mp3",
+    "audio_example": "audio/ne_example.mp3"
   }
 ]
