@@ -1402,5 +1402,41 @@
     "example_ja": "私は元気です、あなたは？",
     "audio_word": "audio/ne_word.mp3",
     "audio_example": "audio/ne_example.mp3"
+  },
+  {
+    "date": "2026-09-17",
+    "hsk": 1,
+    "zh": "点",
+    "pinyin": "diǎn",
+    "ja": "〜時（時刻を数える量詞）",
+    "example_zh": "现在十点。",
+    "example_pinyin": "Xiànzài shí diǎn.",
+    "example_ja": "今10時です。",
+    "audio_word": "audio/dian_word.mp3",
+    "audio_example": "audio/dian_example.mp3"
+  },
+  {
+    "date": "2026-09-17",
+    "hsk": 1,
+    "zh": "一起",
+    "pinyin": "yìqǐ",
+    "ja": "一緒に",
+    "example_zh": "我们一起去学校。",
+    "example_pinyin": "Wǒmen yìqǐ qù xuéxiào.",
+    "example_ja": "私たちは一緒に学校に行きます。",
+    "audio_word": "audio/yiqi_word.mp3",
+    "audio_example": "audio/yiqi_example.mp3"
+  },
+  {
+    "date": "2026-09-17",
+    "hsk": 1,
+    "zh": "怎么",
+    "pinyin": "zěnme",
+    "ja": "どうやって、どうして",
+    "example_zh": "你怎么去学校？",
+    "example_pinyin": "Nǐ zěnme qù xuéxiào?",
+    "example_ja": "あなたはどうやって学校に行きますか？",
+    "audio_word": "audio/zenme_word.mp3",
+    "audio_example": "audio/zenme_example.mp3"
   }
 ]
