@@ -1438,5 +1438,41 @@
     "example_ja": "あなたはどうやって学校に行きますか？",
     "audio_word": "audio/zenme_word.mp3",
     "audio_example": "audio/zenme_example.mp3"
+  },
+  {
+    "date": "2026-09-18",
+    "hsk": 1,
+    "zh": "上午",
+    "pinyin": "shàngwǔ",
+    "ja": "午前",
+    "example_zh": "我上午去学校。",
+    "example_pinyin": "Wǒ shàngwǔ qù xuéxiào.",
+    "example_ja": "私は午前中に学校へ行きます。",
+    "audio_word": "audio/shangwu_word.mp3",
+    "audio_example": "audio/shangwu_example.mp3"
+  },
+  {
+    "date": "2026-09-18",
+    "hsk": 1,
+    "zh": "下午",
+    "pinyin": "xiàwǔ",
+    "ja": "午後",
+    "example_zh": "下午你在家吗？",
+    "example_pinyin": "Xiàwǔ nǐ zài jiā ma?",
+    "example_ja": "午後あなたは家にいますか？",
+    "audio_word": "audio/xiawu_word.mp3",
+    "audio_example": "audio/xiawu_example.mp3"
+  },
+  {
+    "date": "2026-09-18",
+    "hsk": 1,
+    "zh": "西瓜",
+    "pinyin": "xīguā",
+    "ja": "スイカ",
+    "example_zh": "我喜欢吃西瓜。",
+    "example_pinyin": "Wǒ xǐhuan chī xīguā.",
+    "example_ja": "私はスイカを食べるのが好きです。",
+    "audio_word": "audio/xigua_word.mp3",
+    "audio_example": "audio/xigua_example.mp3"
   }
 ]
