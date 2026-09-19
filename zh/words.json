@@ -1474,5 +1474,41 @@
     "example_ja": "私はスイカを食べるのが好きです。",
     "audio_word": "audio/xigua_word.mp3",
     "audio_example": "audio/xigua_example.mp3"
+  },
+  {
+    "date": "2026-09-19",
+    "hsk": 1,
+    "zh": "鱼",
+    "pinyin": "yú",
+    "ja": "魚",
+    "example_zh": "我喜欢吃鱼。",
+    "example_pinyin": "Wǒ xǐhuan chī yú.",
+    "example_ja": "私は魚を食べるのが好きです。",
+    "audio_word": "audio/yu_word.mp3",
+    "audio_example": "audio/yu_example.mp3"
+  },
+  {
+    "date": "2026-09-19",
+    "hsk": 1,
+    "zh": "听",
+    "pinyin": "tīng",
+    "ja": "聞く",
+    "example_zh": "我听你说。",
+    "example_pinyin": "Wǒ tīng nǐ shuō.",
+    "example_ja": "私はあなたの話を聞きます。",
+    "audio_word": "audio/ting_word.mp3",
+    "audio_example": "audio/ting_example.mp3"
+  },
+  {
+    "date": "2026-09-19",
+    "hsk": 1,
+    "zh": "写",
+    "pinyin": "xiě",
+    "ja": "書く",
+    "example_zh": "我写书。",
+    "example_pinyin": "Wǒ xiě shū.",
+    "example_ja": "私は本を書きます。",
+    "audio_word": "audio/xie_word.mp3",
+    "audio_example": "audio/xie_example.mp3"
   }
 ]
