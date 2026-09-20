@@ -1510,5 +1510,41 @@
     "example_ja": "私は本を書きます。",
     "audio_word": "audio/xie_word.mp3",
     "audio_example": "audio/xie_example.mp3"
+  },
+  {
+    "date": "2026-09-20",
+    "hsk": 1,
+    "zh": "菜",
+    "pinyin": "cài",
+    "ja": "料理、おかず／野菜",
+    "example_zh": "我喜欢吃菜。",
+    "example_pinyin": "Wǒ xǐhuan chī cài.",
+    "example_ja": "私は野菜を食べるのが好きです。",
+    "audio_word": "audio/cai_word.mp3",
+    "audio_example": "audio/cai_example.mp3"
+  },
+  {
+    "date": "2026-09-20",
+    "hsk": 1,
+    "zh": "学习",
+    "pinyin": "xuéxí",
+    "ja": "勉強する、学ぶ",
+    "example_zh": "我在学校学习。",
+    "example_pinyin": "Wǒ zài xuéxiào xuéxí.",
+    "example_ja": "私は学校で勉強します。",
+    "audio_word": "audio/xuexi_word.mp3",
+    "audio_example": "audio/xuexi_example.mp3"
+  },
+  {
+    "date": "2026-09-20",
+    "hsk": 1,
+    "zh": "中午",
+    "pinyin": "zhōngwǔ",
+    "ja": "正午、昼",
+    "example_zh": "现在是中午。",
+    "example_pinyin": "Xiànzài shì zhōngwǔ.",
+    "example_ja": "今は正午です。",
+    "audio_word": "audio/zhongwu_word.mp3",
+    "audio_example": "audio/zhongwu_example.mp3"
   }
 ]
