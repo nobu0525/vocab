@@ -1546,5 +1546,41 @@
     "example_ja": "今は正午です。",
     "audio_word": "audio/zhongwu_word.mp3",
     "audio_example": "audio/zhongwu_example.mp3"
+  },
+  {
+    "date": "2026-09-21",
+    "hsk": 1,
+    "zh": "先生",
+    "pinyin": "xiānsheng",
+    "ja": "〜さん、男性への敬称",
+    "example_zh": "先生，你好吗？",
+    "example_pinyin": "Xiānsheng, nǐ hǎo ma?",
+    "example_ja": "（男性へ）こんにちは、お元気ですか？",
+    "audio_word": "audio/xiansheng_word.mp3",
+    "audio_example": "audio/xiansheng_example.mp3"
+  },
+  {
+    "date": "2026-09-21",
+    "hsk": 1,
+    "zh": "小姐",
+    "pinyin": "xiǎojiě",
+    "ja": "〜さん、女性への敬称",
+    "example_zh": "小姐，你好。",
+    "example_pinyin": "Xiǎojiě, nǐ hǎo.",
+    "example_ja": "（女性へ）こんにちは。",
+    "audio_word": "audio/xiaojie_word.mp3",
+    "audio_example": "audio/xiaojie_example.mp3"
+  },
+  {
+    "date": "2026-09-21",
+    "hsk": 1,
+    "zh": "和",
+    "pinyin": "hé",
+    "ja": "〜と（並列の接続詞）",
+    "example_zh": "我和爸爸去商店。",
+    "example_pinyin": "Wǒ hé bàba qù shāngdiàn.",
+    "example_ja": "私と父はお店へ行きます。",
+    "audio_word": "audio/he2_word.mp3",
+    "audio_example": "audio/he2_example.mp3"
   }
 ]
