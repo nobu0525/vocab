@@ -1582,5 +1582,41 @@
     "example_ja": "私と父はお店へ行きます。",
     "audio_word": "audio/he2_word.mp3",
     "audio_example": "audio/he2_example.mp3"
+  },
+  {
+    "date": "2026-09-22",
+    "hsk": 1,
+    "zh": "哪",
+    "pinyin": "nǎ",
+    "ja": "どれ、どの",
+    "example_zh": "你喜欢哪个苹果？",
+    "example_pinyin": "Nǐ xǐhuan nǎge píngguǒ?",
+    "example_ja": "あなたはどのリンゴが好きですか？",
+    "audio_word": "audio/na2_word.mp3",
+    "audio_example": "audio/na2_example.mp3"
+  },
+  {
+    "date": "2026-09-22",
+    "hsk": 1,
+    "zh": "走",
+    "pinyin": "zǒu",
+    "ja": "歩く、去る、離れる",
+    "example_zh": "他走了。",
+    "example_pinyin": "Tā zǒu le.",
+    "example_ja": "彼は行ってしまいました。",
+    "audio_word": "audio/zou_word.mp3",
+    "audio_example": "audio/zou_example.mp3"
+  },
+  {
+    "date": "2026-09-22",
+    "hsk": 1,
+    "zh": "字",
+    "pinyin": "zì",
+    "ja": "字、文字",
+    "example_zh": "我写字。",
+    "example_pinyin": "Wǒ xiě zì.",
+    "example_ja": "私は字を書きます。",
+    "audio_word": "audio/zi_word.mp3",
+    "audio_example": "audio/zi_example.mp3"
   }
 ]
