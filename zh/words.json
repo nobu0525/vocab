@@ -1618,5 +1618,41 @@
     "example_ja": "私は字を書きます。",
     "audio_word": "audio/zi_word.mp3",
     "audio_example": "audio/zi_example.mp3"
+  },
+  {
+    "date": "2026-09-23",
+    "hsk": 1,
+    "zh": "能",
+    "pinyin": "néng",
+    "ja": "できる、〜できる（可能を表す）",
+    "example_zh": "我能去学校。",
+    "example_pinyin": "Wǒ néng qù xuéxiào.",
+    "example_ja": "私は学校に行くことができます。",
+    "audio_word": "audio/neng_word.mp3",
+    "audio_example": "audio/neng_example.mp3"
+  },
+  {
+    "date": "2026-09-23",
+    "hsk": 1,
+    "zh": "前面",
+    "pinyin": "qiánmiàn",
+    "ja": "前、前方",
+    "example_zh": "老师在前面。",
+    "example_pinyin": "Lǎoshī zài qiánmiàn.",
+    "example_ja": "先生は前にいます。",
+    "audio_word": "audio/qianmian_word.mp3",
+    "audio_example": "audio/qianmian_example.mp3"
+  },
+  {
+    "date": "2026-09-23",
+    "hsk": 1,
+    "zh": "后面",
+    "pinyin": "hòumiàn",
+    "ja": "後ろ、後方",
+    "example_zh": "狗在后面。",
+    "example_pinyin": "Gǒu zài hòumiàn.",
+    "example_ja": "犬は後ろにいます。",
+    "audio_word": "audio/houmian_word.mp3",
+    "audio_example": "audio/houmian_example.mp3"
   }
 ]
