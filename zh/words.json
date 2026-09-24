@@ -1654,5 +1654,41 @@
     "example_ja": "犬は後ろにいます。",
     "audio_word": "audio/houmian_word.mp3",
     "audio_example": "audio/houmian_example.mp3"
+  },
+  {
+    "date": "2026-09-24",
+    "hsk": 1,
+    "zh": "上",
+    "pinyin": "shàng",
+    "ja": "上、〜の上に",
+    "example_zh": "书在桌子上。",
+    "example_pinyin": "Shū zài zhuōzi shàng.",
+    "example_ja": "本は机の上にあります。",
+    "audio_word": "audio/shang_word.mp3",
+    "audio_example": "audio/shang_example.mp3"
+  },
+  {
+    "date": "2026-09-24",
+    "hsk": 1,
+    "zh": "下",
+    "pinyin": "xià",
+    "ja": "下、〜の下に",
+    "example_zh": "猫在桌子下。",
+    "example_pinyin": "Māo zài zhuōzi xià.",
+    "example_ja": "猫は机の下にいます。",
+    "audio_word": "audio/xia_word.mp3",
+    "audio_example": "audio/xia_example.mp3"
+  },
+  {
+    "date": "2026-09-24",
+    "hsk": 1,
+    "zh": "里",
+    "pinyin": "lǐ",
+    "ja": "中、〜の中に",
+    "example_zh": "猫在家里。",
+    "example_pinyin": "Māo zài jiā lǐ.",
+    "example_ja": "猫は家の中にいます。",
+    "audio_word": "audio/li_word.mp3",
+    "audio_example": "audio/li_example.mp3"
   }
 ]
