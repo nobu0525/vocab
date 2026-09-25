@@ -1690,5 +1690,41 @@
     "example_ja": "猫は家の中にいます。",
     "audio_word": "audio/li_word.mp3",
     "audio_example": "audio/li_example.mp3"
+  },
+  {
+    "date": "2026-09-25",
+    "hsk": 1,
+    "zh": "看见",
+    "pinyin": "kànjiàn",
+    "ja": "見える、見かける",
+    "example_zh": "我看见你了。",
+    "example_pinyin": "Wǒ kànjiàn nǐ le.",
+    "example_ja": "私はあなたを見かけました。",
+    "audio_word": "audio/kanjian_word.mp3",
+    "audio_example": "audio/kanjian_example.mp3"
+  },
+  {
+    "date": "2026-09-25",
+    "hsk": 1,
+    "zh": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "ja": "少し",
+    "example_zh": "我想喝一点儿水。",
+    "example_pinyin": "Wǒ xiǎng hē yìdiǎnr shuǐ.",
+    "example_ja": "私は少し水が飲みたいです。",
+    "audio_word": "audio/yidianr_word.mp3",
+    "audio_example": "audio/yidianr_example.mp3"
+  },
+  {
+    "date": "2026-09-25",
+    "hsk": 1,
+    "zh": "块",
+    "pinyin": "kuài",
+    "ja": "〜元（お金の単位、口語）",
+    "example_zh": "这个苹果三块钱。",
+    "example_pinyin": "Zhège píngguǒ sān kuài qián.",
+    "example_ja": "このリンゴは3元です。",
+    "audio_word": "audio/kuai_word.mp3",
+    "audio_example": "audio/kuai_example.mp3"
   }
 ]
