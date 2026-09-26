@@ -1726,5 +1726,41 @@
     "example_ja": "このリンゴは3元です。",
     "audio_word": "audio/kuai_word.mp3",
     "audio_example": "audio/kuai_example.mp3"
+  },
+  {
+    "date": "2026-09-26",
+    "hsk": 1,
+    "zh": "开",
+    "pinyin": "kāi",
+    "ja": "開ける、（テレビなどを）つける、運転する",
+    "example_zh": "他开电视。",
+    "example_pinyin": "Tā kāi diànshì.",
+    "example_ja": "彼はテレビをつけます。",
+    "audio_word": "audio/kai_word.mp3",
+    "audio_example": "audio/kai_example.mp3"
+  },
+  {
+    "date": "2026-09-26",
+    "hsk": 1,
+    "zh": "门",
+    "pinyin": "mén",
+    "ja": "ドア、門",
+    "example_zh": "门很大。",
+    "example_pinyin": "Mén hěn dà.",
+    "example_ja": "ドアはとても大きいです。",
+    "audio_word": "audio/men_word.mp3",
+    "audio_example": "audio/men_example.mp3"
+  },
+  {
+    "date": "2026-09-26",
+    "hsk": 1,
+    "zh": "用",
+    "pinyin": "yòng",
+    "ja": "使う",
+    "example_zh": "我用电脑。",
+    "example_pinyin": "Wǒ yòng diànnǎo.",
+    "example_ja": "私はパソコンを使います。",
+    "audio_word": "audio/yong_word.mp3",
+    "audio_example": "audio/yong_example.mp3"
   }
 ]
