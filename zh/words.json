@@ -1762,5 +1762,41 @@
     "example_ja": "私はパソコンを使います。",
     "audio_word": "audio/yong_word.mp3",
     "audio_example": "audio/yong_example.mp3"
+  },
+  {
+    "date": "2026-09-27",
+    "hsk": 1,
+    "zh": "做",
+    "pinyin": "zuò",
+    "ja": "する、作る",
+    "example_zh": "妈妈在做饭。",
+    "example_pinyin": "Māma zài zuò fàn.",
+    "example_ja": "お母さんはご飯を作っています。",
+    "audio_word": "audio/zuo_word.mp3",
+    "audio_example": "audio/zuo_example.mp3"
+  },
+  {
+    "date": "2026-09-27",
+    "hsk": 1,
+    "zh": "住",
+    "pinyin": "zhù",
+    "ja": "住む",
+    "example_zh": "我住在东京。",
+    "example_pinyin": "Wǒ zhù zài Dōngjīng.",
+    "example_ja": "私は東京に住んでいます。",
+    "audio_word": "audio/zhu_word.mp3",
+    "audio_example": "audio/zhu_example.mp3"
+  },
+  {
+    "date": "2026-09-27",
+    "hsk": 1,
+    "zh": "时候",
+    "pinyin": "shíhou",
+    "ja": "時、頃",
+    "example_zh": "你什么时候来？",
+    "example_pinyin": "Nǐ shénme shíhou lái?",
+    "example_ja": "あなたはいつ来ますか？",
+    "audio_word": "audio/shihou_word.mp3",
+    "audio_example": "audio/shihou_example.mp3"
   }
 ]
