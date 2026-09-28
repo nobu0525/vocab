@@ -1798,5 +1798,41 @@
     "example_ja": "あなたはいつ来ますか？",
     "audio_word": "audio/shihou_word.mp3",
     "audio_example": "audio/shihou_example.mp3"
+  },
+  {
+    "date": "2026-09-28",
+    "hsk": 2,
+    "zh": "您",
+    "pinyin": "nín",
+    "ja": "あなた（丁寧な言い方）",
+    "example_zh": "您是老师吗？",
+    "example_pinyin": "Nín shì lǎoshī ma?",
+    "example_ja": "あなたは先生ですか？（丁寧な言い方）",
+    "audio_word": "audio/nin_word.mp3",
+    "audio_example": "audio/nin_example.mp3"
+  },
+  {
+    "date": "2026-09-28",
+    "hsk": 2,
+    "zh": "它",
+    "pinyin": "tā",
+    "ja": "それ、あれ（動物や物に使う）",
+    "example_zh": "它是我的狗。",
+    "example_pinyin": "Tā shì wǒ de gǒu.",
+    "example_ja": "それは私の犬です。",
+    "audio_word": "audio/ta_it_word.mp3",
+    "audio_example": "audio/ta_it_example.mp3"
+  },
+  {
+    "date": "2026-09-28",
+    "hsk": 2,
+    "zh": "大家",
+    "pinyin": "dàjiā",
+    "ja": "みんな、みなさん",
+    "example_zh": "大家都是我的朋友。",
+    "example_pinyin": "Dàjiā dōu shì wǒ de péngyou.",
+    "example_ja": "みんな私の友達です。",
+    "audio_word": "audio/dajia_word.mp3",
+    "audio_example": "audio/dajia_example.mp3"
   }
 ]
