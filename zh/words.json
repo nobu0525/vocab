@@ -1834,5 +1834,41 @@
     "example_ja": "みんな私の友達です。",
     "audio_word": "audio/dajia_word.mp3",
     "audio_example": "audio/dajia_example.mp3"
+  },
+  {
+    "date": "2026-09-29",
+    "hsk": 1,
+    "zh": "也",
+    "pinyin": "yě",
+    "ja": "〜も、〜もまた",
+    "example_zh": "我也是学生。",
+    "example_pinyin": "Wǒ yě shì xuésheng.",
+    "example_ja": "私も学生です。",
+    "audio_word": "audio/ye_word.mp3",
+    "audio_example": "audio/ye_example.mp3"
+  },
+  {
+    "date": "2026-09-29",
+    "hsk": 1,
+    "zh": "这儿",
+    "pinyin": "zhèr",
+    "ja": "ここ",
+    "example_zh": "我在这儿。",
+    "example_pinyin": "Wǒ zài zhèr.",
+    "example_ja": "私はここにいます。",
+    "audio_word": "audio/zher_word.mp3",
+    "audio_example": "audio/zher_example.mp3"
+  },
+  {
+    "date": "2026-09-29",
+    "hsk": 1,
+    "zh": "对",
+    "pinyin": "duì",
+    "ja": "はい、正しい、その通り",
+    "example_zh": "对，他是老师。",
+    "example_pinyin": "Duì, tā shì lǎoshī.",
+    "example_ja": "はい、彼は先生です。",
+    "audio_word": "audio/dui_word.mp3",
+    "audio_example": "audio/dui_example.mp3"
   }
 ]
