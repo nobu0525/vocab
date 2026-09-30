@@ -1870,5 +1870,41 @@
     "example_ja": "はい、彼は先生です。",
     "audio_word": "audio/dui_word.mp3",
     "audio_example": "audio/dui_example.mp3"
+  },
+  {
+    "date": "2026-09-30",
+    "hsk": 1,
+    "zh": "两",
+    "pinyin": "liǎng",
+    "ja": "2つ（数量を数えるときの「2」）",
+    "example_zh": "我有两个苹果。",
+    "example_pinyin": "Wǒ yǒu liǎng gè píngguǒ.",
+    "example_ja": "私はリンゴを2つ持っています。",
+    "audio_word": "audio/liang_word.mp3",
+    "audio_example": "audio/liang_example.mp3"
+  },
+  {
+    "date": "2026-09-30",
+    "hsk": 1,
+    "zh": "姓",
+    "pinyin": "xìng",
+    "ja": "姓は〜だ、名字（姓）",
+    "example_zh": "你姓什么？",
+    "example_pinyin": "Nǐ xìng shénme?",
+    "example_ja": "あなたの姓は何ですか？",
+    "audio_word": "audio/xing_word.mp3",
+    "audio_example": "audio/xing_example.mp3"
+  },
+  {
+    "date": "2026-09-30",
+    "hsk": 1,
+    "zh": "下雨",
+    "pinyin": "xià yǔ",
+    "ja": "雨が降る",
+    "example_zh": "今天下雨。",
+    "example_pinyin": "Jīntiān xià yǔ.",
+    "example_ja": "今日は雨が降っています。",
+    "audio_word": "audio/xiayu_word.mp3",
+    "audio_example": "audio/xiayu_example.mp3"
   }
 ]
