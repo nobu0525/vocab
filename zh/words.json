@@ -1906,5 +1906,41 @@
     "example_ja": "今日は雨が降っています。",
     "audio_word": "audio/xiayu_word.mp3",
     "audio_example": "audio/xiayu_example.mp3"
+  },
+  {
+    "date": "2026-10-01",
+    "hsk": 1,
+    "zh": "北京",
+    "pinyin": "Běijīng",
+    "ja": "北京（中国の首都）",
+    "example_zh": "我想去北京。",
+    "example_pinyin": "Wǒ xiǎng qù Běijīng.",
+    "example_ja": "私は北京に行きたいです。",
+    "audio_word": "audio/beijing_word.mp3",
+    "audio_example": "audio/beijing_example.mp3"
+  },
+  {
+    "date": "2026-10-01",
+    "hsk": 1,
+    "zh": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "ja": "電話をかける",
+    "example_zh": "我在打电话。",
+    "example_pinyin": "Wǒ zài dǎ diànhuà.",
+    "example_ja": "私は電話をかけています。",
+    "audio_word": "audio/dadianhua_word.mp3",
+    "audio_example": "audio/dadianhua_example.mp3"
+  },
+  {
+    "date": "2026-10-01",
+    "hsk": 1,
+    "zh": "出租车",
+    "pinyin": "chūzūchē",
+    "ja": "タクシー",
+    "example_zh": "我坐出租车去学校。",
+    "example_pinyin": "Wǒ zuò chūzūchē qù xuéxiào.",
+    "example_ja": "私はタクシーで学校に行きます。",
+    "audio_word": "audio/chuzuche_word.mp3",
+    "audio_example": "audio/chuzuche_example.mp3"
   }
 ]
