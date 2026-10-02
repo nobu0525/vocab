@@ -1942,5 +1942,41 @@
     "example_ja": "私はタクシーで学校に行きます。",
     "audio_word": "audio/chuzuche_word.mp3",
     "audio_example": "audio/chuzuche_example.mp3"
+  },
+  {
+    "date": "2026-10-02",
+    "hsk": 1,
+    "zh": "汽车",
+    "pinyin": "qìchē",
+    "ja": "自動車、車",
+    "example_zh": "我坐汽车去学校。",
+    "example_pinyin": "Wǒ zuò qìchē qù xuéxiào.",
+    "example_ja": "私は車で学校に行きます。",
+    "audio_word": "audio/qiche_word.mp3",
+    "audio_example": "audio/qiche_example.mp3"
+  },
+  {
+    "date": "2026-10-02",
+    "hsk": 1,
+    "zh": "那儿",
+    "pinyin": "nàr",
+    "ja": "あそこ、そこ",
+    "example_zh": "书在那儿。",
+    "example_pinyin": "Shū zài nàr.",
+    "example_ja": "本はあそこにあります。",
+    "audio_word": "audio/nar2_word.mp3",
+    "audio_example": "audio/nar2_example.mp3"
+  },
+  {
+    "date": "2026-10-02",
+    "hsk": 1,
+    "zh": "请问",
+    "pinyin": "qǐngwèn",
+    "ja": "お尋ねします、すみませんが",
+    "example_zh": "请问，你叫什么名字？",
+    "example_pinyin": "Qǐngwèn, nǐ jiào shénme míngzi?",
+    "example_ja": "すみません、お名前は何ですか？",
+    "audio_word": "audio/qingwen_word.mp3",
+    "audio_example": "audio/qingwen_example.mp3"
   }
 ]
