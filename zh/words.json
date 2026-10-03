@@ -1978,5 +1978,41 @@
     "example_ja": "すみません、お名前は何ですか？",
     "audio_word": "audio/qingwen_word.mp3",
     "audio_example": "audio/qingwen_example.mp3"
+  },
+  {
+    "date": "2026-10-03",
+    "hsk": 1,
+    "zh": "回",
+    "pinyin": "huí",
+    "ja": "帰る、戻る",
+    "example_zh": "我回家。",
+    "example_pinyin": "Wǒ huí jiā.",
+    "example_ja": "私は家に帰ります。",
+    "audio_word": "audio/hui_word.mp3",
+    "audio_example": "audio/hui_example.mp3"
+  },
+  {
+    "date": "2026-10-03",
+    "hsk": 1,
+    "zh": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "ja": "どうですか",
+    "example_zh": "今天天气怎么样？",
+    "example_pinyin": "Jīntiān tiānqì zěnmeyàng?",
+    "example_ja": "今日の天気はどうですか？",
+    "audio_word": "audio/zenmeyang_word.mp3",
+    "audio_example": "audio/zenmeyang_example.mp3"
+  },
+  {
+    "date": "2026-10-03",
+    "hsk": 1,
+    "zh": "分钟",
+    "pinyin": "fēnzhōng",
+    "ja": "〜分間",
+    "example_zh": "我学习十分钟。",
+    "example_pinyin": "Wǒ xuéxí shí fēnzhōng.",
+    "example_ja": "私は10分間勉強します。",
+    "audio_word": "audio/fenzhong_word.mp3",
+    "audio_example": "audio/fenzhong_example.mp3"
   }
 ]
