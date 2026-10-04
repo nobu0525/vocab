@@ -2014,5 +2014,41 @@
     "example_ja": "私は10分間勉強します。",
     "audio_word": "audio/fenzhong_word.mp3",
     "audio_example": "audio/fenzhong_example.mp3"
+  },
+  {
+    "date": "2026-10-04",
+    "hsk": 1,
+    "zh": "读",
+    "pinyin": "dú",
+    "ja": "読む、音読する",
+    "example_zh": "我读书。",
+    "example_pinyin": "Wǒ dú shū.",
+    "example_ja": "私は本を読みます。",
+    "audio_word": "audio/du_word.mp3",
+    "audio_example": "audio/du_example.mp3"
+  },
+  {
+    "date": "2026-10-04",
+    "hsk": 1,
+    "zh": "电话",
+    "pinyin": "diànhuà",
+    "ja": "電話",
+    "example_zh": "这是我的电话。",
+    "example_pinyin": "Zhè shì wǒ de diànhuà.",
+    "example_ja": "これは私の電話です。",
+    "audio_word": "audio/dianhua_word.mp3",
+    "audio_example": "audio/dianhua_example.mp3"
+  },
+  {
+    "date": "2026-10-04",
+    "hsk": 1,
+    "zh": "今年",
+    "pinyin": "jīnnián",
+    "ja": "今年",
+    "example_zh": "你今年几岁？",
+    "example_pinyin": "Nǐ jīnnián jǐ suì?",
+    "example_ja": "あなたは今年何歳ですか？",
+    "audio_word": "audio/jinnian_word.mp3",
+    "audio_example": "audio/jinnian_example.mp3"
   }
 ]
