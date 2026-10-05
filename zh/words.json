@@ -2050,5 +2050,41 @@
     "example_ja": "あなたは今年何歳ですか？",
     "audio_word": "audio/jinnian_word.mp3",
     "audio_example": "audio/jinnian_example.mp3"
+  },
+  {
+    "date": "2026-10-05",
+    "hsk": 1,
+    "zh": "本",
+    "pinyin": "běn",
+    "ja": "〜冊（本を数える量詞）",
+    "example_zh": "我有三本书。",
+    "example_pinyin": "Wǒ yǒu sān běn shū.",
+    "example_ja": "私は本を3冊持っています。",
+    "audio_word": "audio/ben_word.mp3",
+    "audio_example": "audio/ben_example.mp3"
+  },
+  {
+    "date": "2026-10-05",
+    "hsk": 1,
+    "zh": "一些",
+    "pinyin": "yìxiē",
+    "ja": "いくつか、少し",
+    "example_zh": "我有一些朋友。",
+    "example_pinyin": "Wǒ yǒu yìxiē péngyou.",
+    "example_ja": "私には何人かの友達がいます。",
+    "audio_word": "audio/yixie_word.mp3",
+    "audio_example": "audio/yixie_example.mp3"
+  },
+  {
+    "date": "2026-10-05",
+    "hsk": 1,
+    "zh": "饭馆",
+    "pinyin": "fànguǎn",
+    "ja": "レストラン、食堂",
+    "example_zh": "我们去饭馆吃饭。",
+    "example_pinyin": "Wǒmen qù fànguǎn chīfàn.",
+    "example_ja": "私たちはレストランへ食事に行きます。",
+    "audio_word": "audio/fanguan_word.mp3",
+    "audio_example": "audio/fanguan_example.mp3"
   }
 ]
