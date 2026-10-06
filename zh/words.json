@@ -2086,5 +2086,41 @@
     "example_ja": "私たちはレストランへ食事に行きます。",
     "audio_word": "audio/fanguan_word.mp3",
     "audio_example": "audio/fanguan_example.mp3"
+  },
+  {
+    "date": "2026-10-06",
+    "hsk": 1,
+    "zh": "没",
+    "pinyin": "méi",
+    "ja": "〜ない（過去・経験の否定）",
+    "example_zh": "我没吃饭。",
+    "example_pinyin": "Wǒ méi chīfàn.",
+    "example_ja": "私はご飯を食べていません。",
+    "audio_word": "audio/mei_word.mp3",
+    "audio_example": "audio/mei_example.mp3"
+  },
+  {
+    "date": "2026-10-06",
+    "hsk": 2,
+    "zh": "弟弟",
+    "pinyin": "dìdi",
+    "ja": "弟",
+    "example_zh": "我有一个弟弟。",
+    "example_pinyin": "Wǒ yǒu yí ge dìdi.",
+    "example_ja": "私には弟が一人います。",
+    "audio_word": "audio/didi_word.mp3",
+    "audio_example": "audio/didi_example.mp3"
+  },
+  {
+    "date": "2026-10-06",
+    "hsk": 2,
+    "zh": "外面",
+    "pinyin": "wàimiàn",
+    "ja": "外、外側",
+    "example_zh": "外面很冷。",
+    "example_pinyin": "Wàimiàn hěn lěng.",
+    "example_ja": "外はとても寒いです。",
+    "audio_word": "audio/waimian_word.mp3",
+    "audio_example": "audio/waimian_example.mp3"
   }
 ]
