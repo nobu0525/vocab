@@ -2122,5 +2122,41 @@
     "example_ja": "外はとても寒いです。",
     "audio_word": "audio/waimian_word.mp3",
     "audio_example": "audio/waimian_example.mp3"
+  },
+  {
+    "date": "2026-10-07",
+    "hsk": 2,
+    "zh": "好吃",
+    "pinyin": "hǎochī",
+    "ja": "おいしい（食べ物）",
+    "example_zh": "这个菜很好吃。",
+    "example_pinyin": "Zhège cài hěn hǎochī.",
+    "example_ja": "この料理はとてもおいしいです。",
+    "audio_word": "audio/haochi_word.mp3",
+    "audio_example": "audio/haochi_example.mp3"
+  },
+  {
+    "date": "2026-10-07",
+    "hsk": 2,
+    "zh": "起床",
+    "pinyin": "qǐchuáng",
+    "ja": "起きる、起床する",
+    "example_zh": "我早上七点起床。",
+    "example_pinyin": "Wǒ zǎoshang qī diǎn qǐchuáng.",
+    "example_ja": "私は朝7時に起きます。",
+    "audio_word": "audio/qichuang_word.mp3",
+    "audio_example": "audio/qichuang_example.mp3"
+  },
+  {
+    "date": "2026-10-07",
+    "hsk": 2,
+    "zh": "手机",
+    "pinyin": "shǒujī",
+    "ja": "携帯電話、スマホ",
+    "example_zh": "我的手机在这儿。",
+    "example_pinyin": "Wǒ de shǒujī zài zhèr.",
+    "example_ja": "私のスマホはここにあります。",
+    "audio_word": "audio/shouji_word.mp3",
+    "audio_example": "audio/shouji_example.mp3"
   }
 ]
