@@ -2158,5 +2158,41 @@
     "example_ja": "私のスマホはここにあります。",
     "audio_word": "audio/shouji_word.mp3",
     "audio_example": "audio/shouji_example.mp3"
+  },
+  {
+    "date": "2026-10-08",
+    "hsk": 1,
+    "zh": "这个",
+    "pinyin": "zhège",
+    "ja": "これ、この",
+    "example_zh": "这个很好吃。",
+    "example_pinyin": "Zhège hěn hǎochī.",
+    "example_ja": "これはとてもおいしいです。",
+    "audio_word": "audio/zhege_word.mp3",
+    "audio_example": "audio/zhege_example.mp3"
+  },
+  {
+    "date": "2026-10-08",
+    "hsk": 2,
+    "zh": "知道",
+    "pinyin": "zhīdào",
+    "ja": "知っている、わかる",
+    "example_zh": "我知道。",
+    "example_pinyin": "Wǒ zhīdào.",
+    "example_ja": "私は知っています。",
+    "audio_word": "audio/zhidao_word.mp3",
+    "audio_example": "audio/zhidao_example.mp3"
+  },
+  {
+    "date": "2026-10-08",
+    "hsk": 2,
+    "zh": "公司",
+    "pinyin": "gōngsī",
+    "ja": "会社",
+    "example_zh": "我去公司工作。",
+    "example_pinyin": "Wǒ qù gōngsī gōngzuò.",
+    "example_ja": "私は会社へ仕事に行きます。",
+    "audio_word": "audio/gongsi_word.mp3",
+    "audio_example": "audio/gongsi_example.mp3"
   }
 ]
