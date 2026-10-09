@@ -2194,5 +2194,41 @@
     "example_ja": "私は会社へ仕事に行きます。",
     "audio_word": "audio/gongsi_word.mp3",
     "audio_example": "audio/gongsi_example.mp3"
+  },
+  {
+    "date": "2026-10-09",
+    "hsk": 1,
+    "zh": "你们",
+    "pinyin": "nǐmen",
+    "ja": "あなたたち",
+    "example_zh": "你们好！",
+    "example_pinyin": "Nǐmen hǎo!",
+    "example_ja": "皆さん、こんにちは！",
+    "audio_word": "audio/nimen_word.mp3",
+    "audio_example": "audio/nimen_example.mp3"
+  },
+  {
+    "date": "2026-10-09",
+    "hsk": 1,
+    "zh": "他们",
+    "pinyin": "tāmen",
+    "ja": "彼ら",
+    "example_zh": "他们是我的同学。",
+    "example_pinyin": "Tāmen shì wǒ de tóngxué.",
+    "example_ja": "彼らは私のクラスメートです。",
+    "audio_word": "audio/tamen_word.mp3",
+    "audio_example": "audio/tamen_example.mp3"
+  },
+  {
+    "date": "2026-10-09",
+    "hsk": 2,
+    "zh": "好看",
+    "pinyin": "hǎokàn",
+    "ja": "きれい、見栄えがよい",
+    "example_zh": "这个很好看。",
+    "example_pinyin": "Zhège hěn hǎokàn.",
+    "example_ja": "これはとてもきれいです。",
+    "audio_word": "audio/haokan_word.mp3",
+    "audio_example": "audio/haokan_example.mp3"
   }
 ]
