@@ -2230,5 +2230,41 @@
     "example_ja": "これはとてもきれいです。",
     "audio_word": "audio/haokan_word.mp3",
     "audio_example": "audio/haokan_example.mp3"
+  },
+  {
+    "date": "2026-10-10",
+    "hsk": 2,
+    "zh": "吧",
+    "pinyin": "ba",
+    "ja": "〜しましょう、〜ね（提案・軽い確認の語気助詞）",
+    "example_zh": "我们走吧。",
+    "example_pinyin": "Wǒmen zǒu ba.",
+    "example_ja": "行きましょう。",
+    "audio_word": "audio/ba2_word.mp3",
+    "audio_example": "audio/ba2_example.mp3"
+  },
+  {
+    "date": "2026-10-10",
+    "hsk": 2,
+    "zh": "白",
+    "pinyin": "bái",
+    "ja": "白い",
+    "example_zh": "我的猫是白的。",
+    "example_pinyin": "Wǒ de māo shì bái de.",
+    "example_ja": "私の猫は白いです。",
+    "audio_word": "audio/bai_word.mp3",
+    "audio_example": "audio/bai_example.mp3"
+  },
+  {
+    "date": "2026-10-10",
+    "hsk": 2,
+    "zh": "贵",
+    "pinyin": "guì",
+    "ja": "（値段が）高い",
+    "example_zh": "这个太贵了。",
+    "example_pinyin": "Zhège tài guì le.",
+    "example_ja": "これは高すぎます。",
+    "audio_word": "audio/gui_word.mp3",
+    "audio_example": "audio/gui_example.mp3"
   }
 ]
