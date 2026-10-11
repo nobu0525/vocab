@@ -2266,5 +2266,41 @@
     "example_ja": "これは高すぎます。",
     "audio_word": "audio/gui_word.mp3",
     "audio_example": "audio/gui_example.mp3"
+  },
+  {
+    "date": "2026-10-11",
+    "hsk": 2,
+    "zh": "便宜",
+    "pinyin": "piányi",
+    "ja": "安い",
+    "example_zh": "这个很便宜。",
+    "example_pinyin": "Zhège hěn piányi.",
+    "example_ja": "これはとても安いです。",
+    "audio_word": "audio/pianyi_word.mp3",
+    "audio_example": "audio/pianyi_example.mp3"
+  },
+  {
+    "date": "2026-10-11",
+    "hsk": 2,
+    "zh": "红",
+    "pinyin": "hóng",
+    "ja": "赤い",
+    "example_zh": "我喜欢红苹果。",
+    "example_pinyin": "Wǒ xǐhuan hóng píngguǒ.",
+    "example_ja": "私は赤いリンゴが好きです。",
+    "audio_word": "audio/hong_word.mp3",
+    "audio_example": "audio/hong_example.mp3"
+  },
+  {
+    "date": "2026-10-11",
+    "hsk": 2,
+    "zh": "快",
+    "pinyin": "kuài",
+    "ja": "速い、早い",
+    "example_zh": "他走得很快。",
+    "example_pinyin": "Tā zǒu de hěn kuài.",
+    "example_ja": "彼は歩くのがとても速いです。",
+    "audio_word": "audio/kuai2_word.mp3",
+    "audio_example": "audio/kuai2_example.mp3"
   }
 ]
