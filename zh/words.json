@@ -2302,5 +2302,41 @@
     "example_ja": "彼は歩くのがとても速いです。",
     "audio_word": "audio/kuai2_word.mp3",
     "audio_example": "audio/kuai2_example.mp3"
+  },
+  {
+    "date": "2026-10-12",
+    "hsk": 2,
+    "zh": "慢",
+    "pinyin": "màn",
+    "ja": "遅い、ゆっくり",
+    "example_zh": "他走得很慢。",
+    "example_pinyin": "Tā zǒu de hěn màn.",
+    "example_ja": "彼は歩くのがとても遅いです。",
+    "audio_word": "audio/man_word.mp3",
+    "audio_example": "audio/man_example.mp3"
+  },
+  {
+    "date": "2026-10-12",
+    "hsk": 2,
+    "zh": "新",
+    "pinyin": "xīn",
+    "ja": "新しい",
+    "example_zh": "这是我的新手机。",
+    "example_pinyin": "Zhè shì wǒ de xīn shǒujī.",
+    "example_ja": "これは私の新しいスマホです。",
+    "audio_word": "audio/xin_word.mp3",
+    "audio_example": "audio/xin_example.mp3"
+  },
+  {
+    "date": "2026-10-12",
+    "hsk": 2,
+    "zh": "旁边",
+    "pinyin": "pángbiān",
+    "ja": "そば、隣",
+    "example_zh": "商店在学校旁边。",
+    "example_pinyin": "Shāngdiàn zài xuéxiào pángbiān.",
+    "example_ja": "お店は学校の隣にあります。",
+    "audio_word": "audio/pangbian_word.mp3",
+    "audio_example": "audio/pangbian_example.mp3"
   }
 ]
