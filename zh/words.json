@@ -2338,5 +2338,41 @@
     "example_ja": "お店は学校の隣にあります。",
     "audio_word": "audio/pangbian_word.mp3",
     "audio_example": "audio/pangbian_example.mp3"
+  },
+  {
+    "date": "2026-10-13",
+    "hsk": 2,
+    "zh": "晚上",
+    "pinyin": "wǎnshang",
+    "ja": "夜、晚",
+    "example_zh": "我晚上在家。",
+    "example_pinyin": "Wǒ wǎnshang zài jiā.",
+    "example_ja": "私は夜、家にいます。",
+    "audio_word": "audio/wanshang_word.mp3",
+    "audio_example": "audio/wanshang_example.mp3"
+  },
+  {
+    "date": "2026-10-13",
+    "hsk": 2,
+    "zh": "孩子",
+    "pinyin": "háizi",
+    "ja": "子ども",
+    "example_zh": "我有两个孩子。",
+    "example_pinyin": "Wǒ yǒu liǎng gè háizi.",
+    "example_ja": "私には子どもが2人います。",
+    "audio_word": "audio/haizi_word.mp3",
+    "audio_example": "audio/haizi_example.mp3"
+  },
+  {
+    "date": "2026-10-13",
+    "hsk": 2,
+    "zh": "咖啡",
+    "pinyin": "kāfēi",
+    "ja": "コーヒー",
+    "example_zh": "我喜欢喝咖啡。",
+    "example_pinyin": "Wǒ xǐhuan hē kāfēi.",
+    "example_ja": "私はコーヒーを飲むのが好きです。",
+    "audio_word": "audio/kafei_word.mp3",
+    "audio_example": "audio/kafei_example.mp3"
   }
 ]
