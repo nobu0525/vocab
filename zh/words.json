@@ -2374,5 +2374,41 @@
     "example_ja": "私はコーヒーを飲むのが好きです。",
     "audio_word": "audio/kafei_word.mp3",
     "audio_example": "audio/kafei_example.mp3"
+  },
+  {
+    "date": "2026-10-14",
+    "hsk": 2,
+    "zh": "非常",
+    "pinyin": "fēicháng",
+    "ja": "とても、非常に",
+    "example_zh": "这个菜非常好吃。",
+    "example_pinyin": "Zhège cài fēicháng hǎochī.",
+    "example_ja": "この料理はとてもおいしいです。",
+    "audio_word": "audio/feichang_word.mp3",
+    "audio_example": "audio/feichang_example.mp3"
+  },
+  {
+    "date": "2026-10-14",
+    "hsk": 2,
+    "zh": "生日",
+    "pinyin": "shēngrì",
+    "ja": "誕生日",
+    "example_zh": "今天是我的生日。",
+    "example_pinyin": "Jīntiān shì wǒ de shēngrì.",
+    "example_ja": "今日は私の誕生日です。",
+    "audio_word": "audio/shengri_word.mp3",
+    "audio_example": "audio/shengri_example.mp3"
+  },
+  {
+    "date": "2026-10-14",
+    "hsk": 2,
+    "zh": "唱歌",
+    "pinyin": "chàng gē",
+    "ja": "歌を歌う",
+    "example_zh": "我喜欢唱歌。",
+    "example_pinyin": "Wǒ xǐhuan chàng gē.",
+    "example_ja": "私は歌を歌うのが好きです。",
+    "audio_word": "audio/changge_word.mp3",
+    "audio_example": "audio/changge_example.mp3"
   }
 ]
