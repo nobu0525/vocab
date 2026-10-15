@@ -2410,5 +2410,41 @@
     "example_ja": "私は歌を歌うのが好きです。",
     "audio_word": "audio/changge_word.mp3",
     "audio_example": "audio/changge_example.mp3"
+  },
+  {
+    "date": "2026-10-15",
+    "hsk": 2,
+    "zh": "牛奶",
+    "pinyin": "niúnǎi",
+    "ja": "牛乳、ミルク",
+    "example_zh": "我每天早上喝牛奶。",
+    "example_pinyin": "Wǒ měitiān zǎoshang hē niúnǎi.",
+    "example_ja": "私は毎朝牛乳を飲みます。",
+    "audio_word": "audio/niunai_word.mp3",
+    "audio_example": "audio/niunai_example.mp3"
+  },
+  {
+    "date": "2026-10-15",
+    "hsk": 2,
+    "zh": "鸡蛋",
+    "pinyin": "jīdàn",
+    "ja": "卵（鶏卵）",
+    "example_zh": "我想吃一个鸡蛋。",
+    "example_pinyin": "Wǒ xiǎng chī yí ge jīdàn.",
+    "example_ja": "私は卵を1つ食べたいです。",
+    "audio_word": "audio/jidan_word.mp3",
+    "audio_example": "audio/jidan_example.mp3"
+  },
+  {
+    "date": "2026-10-15",
+    "hsk": 2,
+    "zh": "游泳",
+    "pinyin": "yóu yǒng",
+    "ja": "泳ぐ、水泳",
+    "example_zh": "我喜欢游泳。",
+    "example_pinyin": "Wǒ xǐhuan yóu yǒng.",
+    "example_ja": "私は泳ぐのが好きです。",
+    "audio_word": "audio/youyong_word.mp3",
+    "audio_example": "audio/youyong_example.mp3"
   }
 ]
