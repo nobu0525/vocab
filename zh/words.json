@@ -2446,5 +2446,41 @@
     "example_ja": "私は泳ぐのが好きです。",
     "audio_word": "audio/youyong_word.mp3",
     "audio_example": "audio/youyong_example.mp3"
+  },
+  {
+    "date": "2026-10-16",
+    "hsk": 2,
+    "zh": "跑步",
+    "pinyin": "pǎobù",
+    "ja": "走る、ジョギングする",
+    "example_zh": "我每天早上跑步。",
+    "example_pinyin": "Wǒ měitiān zǎoshang pǎobù.",
+    "example_ja": "私は毎朝ジョギングします。",
+    "audio_word": "audio/paobu_word.mp3",
+    "audio_example": "audio/paobu_example.mp3"
+  },
+  {
+    "date": "2026-10-16",
+    "hsk": 2,
+    "zh": "面条",
+    "pinyin": "miàntiáo",
+    "ja": "麺、ヌードル",
+    "example_zh": "我喜欢吃面条。",
+    "example_pinyin": "Wǒ xǐhuan chī miàntiáo.",
+    "example_ja": "私は麺を食べるのが好きです。",
+    "audio_word": "audio/miantiao_word.mp3",
+    "audio_example": "audio/miantiao_example.mp3"
+  },
+  {
+    "date": "2026-10-16",
+    "hsk": 2,
+    "zh": "房间",
+    "pinyin": "fángjiān",
+    "ja": "部屋",
+    "example_zh": "我的房间很小。",
+    "example_pinyin": "Wǒ de fángjiān hěn xiǎo.",
+    "example_ja": "私の部屋はとても小さいです。",
+    "audio_word": "audio/fangjian_word.mp3",
+    "audio_example": "audio/fangjian_example.mp3"
   }
 ]
