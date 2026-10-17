@@ -2482,5 +2482,41 @@
     "example_ja": "私の部屋はとても小さいです。",
     "audio_word": "audio/fangjian_word.mp3",
     "audio_example": "audio/fangjian_example.mp3"
+  },
+  {
+    "date": "2026-10-17",
+    "hsk": 2,
+    "zh": "足球",
+    "pinyin": "zúqiú",
+    "ja": "サッカー",
+    "example_zh": "我喜欢踢足球。",
+    "example_pinyin": "Wǒ xǐhuan tī zúqiú.",
+    "example_ja": "私はサッカーをするのが好きです。",
+    "audio_word": "audio/zuqiu_word.mp3",
+    "audio_example": "audio/zuqiu_example.mp3"
+  },
+  {
+    "date": "2026-10-17",
+    "hsk": 2,
+    "zh": "眼睛",
+    "pinyin": "yǎnjing",
+    "ja": "目",
+    "example_zh": "她的眼睛很大。",
+    "example_pinyin": "Tā de yǎnjing hěn dà.",
+    "example_ja": "彼女の目はとても大きいです。",
+    "audio_word": "audio/yanjing_word.mp3",
+    "audio_example": "audio/yanjing_example.mp3"
+  },
+  {
+    "date": "2026-10-17",
+    "hsk": 2,
+    "zh": "旅游",
+    "pinyin": "lǚyóu",
+    "ja": "旅行する、観光",
+    "example_zh": "我想去北京旅游。",
+    "example_pinyin": "Wǒ xiǎng qù Běijīng lǚyóu.",
+    "example_ja": "私は北京へ旅行に行きたいです。",
+    "audio_word": "audio/lvyou_word.mp3",
+    "audio_example": "audio/lvyou_example.mp3"
   }
 ]
