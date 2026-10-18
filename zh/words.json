@@ -2518,5 +2518,41 @@
     "example_ja": "私は北京へ旅行に行きたいです。",
     "audio_word": "audio/lvyou_word.mp3",
     "audio_example": "audio/lvyou_example.mp3"
+  },
+  {
+    "date": "2026-10-18",
+    "hsk": 2,
+    "zh": "手表",
+    "pinyin": "shǒubiǎo",
+    "ja": "腕時計",
+    "example_zh": "这个手表很漂亮。",
+    "example_pinyin": "Zhège shǒubiǎo hěn piàoliang.",
+    "example_ja": "この腕時計はとてもきれいです。",
+    "audio_word": "audio/shoubiao_word.mp3",
+    "audio_example": "audio/shoubiao_example.mp3"
+  },
+  {
+    "date": "2026-10-18",
+    "hsk": 2,
+    "zh": "药",
+    "pinyin": "yào",
+    "ja": "薬",
+    "example_zh": "我要吃药。",
+    "example_pinyin": "Wǒ yào chī yào.",
+    "example_ja": "私は薬を飲まなければなりません。",
+    "audio_word": "audio/yao_word.mp3",
+    "audio_example": "audio/yao_example.mp3"
+  },
+  {
+    "date": "2026-10-18",
+    "hsk": 2,
+    "zh": "报纸",
+    "pinyin": "bàozhǐ",
+    "ja": "新聞",
+    "example_zh": "爸爸每天看报纸。",
+    "example_pinyin": "Bàba měitiān kàn bàozhǐ.",
+    "example_ja": "父は毎日新聞を読みます。",
+    "audio_word": "audio/baozhi_word.mp3",
+    "audio_example": "audio/baozhi_example.mp3"
   }
 ]
