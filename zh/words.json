@@ -502,5 +502,41 @@
     "example_ja": "私は友達が6人います。",
     "audio_word": "audio/liu_word.mp3",
     "audio_example": "audio/liu_example.mp3"
+  },
+  {
+    "date": "2026-11-02",
+    "hsk": 1,
+    "zh": "七",
+    "pinyin": "qī",
+    "ja": "7（なな・しち）",
+    "example_zh": "我有七个朋友。",
+    "example_pinyin": "wǒ yǒu qī ge péngyou.",
+    "example_ja": "私は友達が7人います。",
+    "audio_word": "audio/qi_word.mp3",
+    "audio_example": "audio/qi_example.mp3"
+  },
+  {
+    "date": "2026-11-02",
+    "hsk": 1,
+    "zh": "八",
+    "pinyin": "bā",
+    "ja": "8（はち）",
+    "example_zh": "我有八个朋友。",
+    "example_pinyin": "wǒ yǒu bā ge péngyou.",
+    "example_ja": "私は友達が8人います。",
+    "audio_word": "audio/ba_word.mp3",
+    "audio_example": "audio/ba_example.mp3"
+  },
+  {
+    "date": "2026-11-02",
+    "hsk": 1,
+    "zh": "九",
+    "pinyin": "jiǔ",
+    "ja": "9（きゅう・く）",
+    "example_zh": "我有九个朋友。",
+    "example_pinyin": "wǒ yǒu jiǔ ge péngyou.",
+    "example_ja": "私は友達が9人います。",
+    "audio_word": "audio/jiu_word.mp3",
+    "audio_example": "audio/jiu_example.mp3"
   }
 ]
