@@ -538,5 +538,41 @@
     "example_ja": "私は友達が9人います。",
     "audio_word": "audio/jiu_word.mp3",
     "audio_example": "audio/jiu_example.mp3"
+  },
+  {
+    "date": "2026-11-03",
+    "hsk": 1,
+    "zh": "十",
+    "pinyin": "shí",
+    "ja": "10（じゅう）",
+    "example_zh": "我有十个朋友。",
+    "example_pinyin": "wǒ yǒu shí ge péngyou.",
+    "example_ja": "私は友達が10人います。",
+    "audio_word": "audio/shi10_word.mp3",
+    "audio_example": "audio/shi10_example.mp3"
+  },
+  {
+    "date": "2026-11-03",
+    "hsk": 1,
+    "zh": "个",
+    "pinyin": "ge",
+    "ja": "～個・～人（最も一般的な量詞）",
+    "example_zh": "这个是我的茶。",
+    "example_pinyin": "zhège shì wǒ de chá.",
+    "example_ja": "これは私のお茶です。",
+    "audio_word": "audio/ge_word.mp3",
+    "audio_example": "audio/ge_example.mp3"
+  },
+  {
+    "date": "2026-11-03",
+    "hsk": 1,
+    "zh": "钱",
+    "pinyin": "qián",
+    "ja": "お金",
+    "example_zh": "我没有钱。",
+    "example_pinyin": "wǒ méiyǒu qián.",
+    "example_ja": "私はお金がありません。",
+    "audio_word": "audio/qian_word.mp3",
+    "audio_example": "audio/qian_example.mp3"
   }
 ]
