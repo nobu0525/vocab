@@ -574,5 +574,41 @@
     "example_ja": "私はお金がありません。",
     "audio_word": "audio/qian_word.mp3",
     "audio_example": "audio/qian_example.mp3"
+  },
+  {
+    "date": "2026-11-04",
+    "hsk": 1,
+    "zh": "人",
+    "pinyin": "rén",
+    "ja": "人・人間",
+    "example_zh": "他是好人。",
+    "example_pinyin": "tā shì hǎo rén.",
+    "example_ja": "彼はいい人です。",
+    "audio_word": "audio/ren_word.mp3",
+    "audio_example": "audio/ren_example.mp3"
+  },
+  {
+    "date": "2026-11-04",
+    "hsk": 1,
+    "zh": "大",
+    "pinyin": "dà",
+    "ja": "大きい",
+    "example_zh": "这个很大。",
+    "example_pinyin": "zhège hěn dà.",
+    "example_ja": "これはとても大きいです。",
+    "audio_word": "audio/da_word.mp3",
+    "audio_example": "audio/da_example.mp3"
+  },
+  {
+    "date": "2026-11-04",
+    "hsk": 1,
+    "zh": "小",
+    "pinyin": "xiǎo",
+    "ja": "小さい",
+    "example_zh": "我有一个小茶杯。",
+    "example_pinyin": "wǒ yǒu yí ge xiǎo chábēi.",
+    "example_ja": "私は小さい湯のみを1つ持っています。",
+    "audio_word": "audio/xiao_word.mp3",
+    "audio_example": "audio/xiao_example.mp3"
   }
 ]
