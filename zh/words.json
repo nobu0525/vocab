@@ -646,5 +646,41 @@
     "example_ja": "私は学校に行きます。",
     "audio_word": "audio/qu_word.mp3",
     "audio_example": "audio/qu_example.mp3"
+  },
+  {
+    "date": "2026-11-06",
+    "hsk": 1,
+    "zh": "来",
+    "pinyin": "lái",
+    "ja": "来る",
+    "example_zh": "你来我家。",
+    "example_pinyin": "nǐ lái wǒ jiā.",
+    "example_ja": "あなたは私の家に来ます。",
+    "audio_word": "audio/lai_word.mp3",
+    "audio_example": "audio/lai_example.mp3"
+  },
+  {
+    "date": "2026-11-06",
+    "hsk": 1,
+    "zh": "看",
+    "pinyin": "kàn",
+    "ja": "見る・読む",
+    "example_zh": "我看书。",
+    "example_pinyin": "wǒ kàn shū.",
+    "example_ja": "私は本を読みます。",
+    "audio_word": "audio/kan_word.mp3",
+    "audio_example": "audio/kan_example.mp3"
+  },
+  {
+    "date": "2026-11-06",
+    "hsk": 1,
+    "zh": "在",
+    "pinyin": "zài",
+    "ja": "～にある・いる／～で",
+    "example_zh": "我在家。",
+    "example_pinyin": "wǒ zài jiā.",
+    "example_ja": "私は家にいます。",
+    "audio_word": "audio/zai_word.mp3",
+    "audio_example": "audio/zai_example.mp3"
   }
 ]
