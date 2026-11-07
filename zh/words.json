@@ -682,5 +682,41 @@
     "example_ja": "私は家にいます。",
     "audio_word": "audio/zai_word.mp3",
     "audio_example": "audio/zai_example.mp3"
+  },
+  {
+    "date": "2026-11-07",
+    "hsk": 1,
+    "zh": "家",
+    "pinyin": "jiā",
+    "ja": "家、自宅",
+    "example_zh": "我家很大。",
+    "example_pinyin": "wǒ jiā hěn dà.",
+    "example_ja": "私の家はとても大きいです。",
+    "audio_word": "audio/jia_word.mp3",
+    "audio_example": "audio/jia_example.mp3"
+  },
+  {
+    "date": "2026-11-07",
+    "hsk": 1,
+    "zh": "书",
+    "pinyin": "shū",
+    "ja": "本",
+    "example_zh": "这是我的书。",
+    "example_pinyin": "zhè shì wǒ de shū.",
+    "example_ja": "これは私の本です。",
+    "audio_word": "audio/shu_word.mp3",
+    "audio_example": "audio/shu_example.mp3"
+  },
+  {
+    "date": "2026-11-07",
+    "hsk": 1,
+    "zh": "学校",
+    "pinyin": "xuéxiào",
+    "ja": "学校",
+    "example_zh": "学校很大。",
+    "example_pinyin": "xuéxiào hěn dà.",
+    "example_ja": "学校はとても大きいです。",
+    "audio_word": "audio/xuexiao_word.mp3",
+    "audio_example": "audio/xuexiao_example.mp3"
   }
 ]
