@@ -718,5 +718,41 @@
     "example_ja": "学校はとても大きいです。",
     "audio_word": "audio/xuexiao_word.mp3",
     "audio_example": "audio/xuexiao_example.mp3"
+  },
+  {
+    "date": "2026-11-08",
+    "hsk": 1,
+    "zh": "很",
+    "pinyin": "hěn",
+    "ja": "とても・非常に",
+    "example_zh": "我很好。",
+    "example_pinyin": "wǒ hěn hǎo.",
+    "example_ja": "私は元気です。",
+    "audio_word": "audio/hen_word.mp3",
+    "audio_example": "audio/hen_example.mp3"
+  },
+  {
+    "date": "2026-11-08",
+    "hsk": 1,
+    "zh": "喜欢",
+    "pinyin": "xǐhuan",
+    "ja": "好き・好む",
+    "example_zh": "我喜欢茶。",
+    "example_pinyin": "wǒ xǐhuan chá.",
+    "example_ja": "私はお茶が好きです。",
+    "audio_word": "audio/xihuan_word.mp3",
+    "audio_example": "audio/xihuan_example.mp3"
+  },
+  {
+    "date": "2026-11-08",
+    "hsk": 1,
+    "zh": "想",
+    "pinyin": "xiǎng",
+    "ja": "～したい・思う・恋しい",
+    "example_zh": "我想喝水。",
+    "example_pinyin": "wǒ xiǎng hē shuǐ.",
+    "example_ja": "私は水が飲みたいです。",
+    "audio_word": "audio/xiang_word.mp3",
+    "audio_example": "audio/xiang_example.mp3"
   }
 ]
