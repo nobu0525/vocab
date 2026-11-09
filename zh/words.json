@@ -754,5 +754,41 @@
     "example_ja": "私は水が飲みたいです。",
     "audio_word": "audio/xiang_word.mp3",
     "audio_example": "audio/xiang_example.mp3"
+  },
+  {
+    "date": "2026-11-09",
+    "hsk": 1,
+    "zh": "今天",
+    "pinyin": "jīntiān",
+    "ja": "今日",
+    "example_zh": "今天我在家。",
+    "example_pinyin": "jīntiān wǒ zài jiā.",
+    "example_ja": "今日は私は家にいます。",
+    "audio_word": "audio/jintian_word.mp3",
+    "audio_example": "audio/jintian_example.mp3"
+  },
+  {
+    "date": "2026-11-09",
+    "hsk": 1,
+    "zh": "明天",
+    "pinyin": "míngtiān",
+    "ja": "明日",
+    "example_zh": "明天我去学校。",
+    "example_pinyin": "míngtiān wǒ qù xuéxiào.",
+    "example_ja": "明日、私は学校に行きます。",
+    "audio_word": "audio/mingtian_word.mp3",
+    "audio_example": "audio/mingtian_example.mp3"
+  },
+  {
+    "date": "2026-11-09",
+    "hsk": 1,
+    "zh": "会",
+    "pinyin": "huì",
+    "ja": "～できる（習得した技能）",
+    "example_zh": "我会说中文。",
+    "example_pinyin": "wǒ huì shuō Zhōngwén.",
+    "example_ja": "私は中国語が話せます。",
+    "audio_word": "audio/hui_word.mp3",
+    "audio_example": "audio/hui_example.mp3"
   }
 ]
