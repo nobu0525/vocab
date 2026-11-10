@@ -790,5 +790,41 @@
     "example_ja": "私は中国語が話せます。",
     "audio_word": "audio/hui_word.mp3",
     "audio_example": "audio/hui_example.mp3"
+  },
+  {
+    "date": "2026-11-10",
+    "hsk": 1,
+    "zh": "昨天",
+    "pinyin": "zuótiān",
+    "ja": "昨日",
+    "example_zh": "昨天我在家。",
+    "example_pinyin": "zuótiān wǒ zài jiā.",
+    "example_ja": "昨日は私は家にいました。",
+    "audio_word": "audio/zuotian_word.mp3",
+    "audio_example": "audio/zuotian_example.mp3"
+  },
+  {
+    "date": "2026-11-10",
+    "hsk": 1,
+    "zh": "说",
+    "pinyin": "shuō",
+    "ja": "話す・言う",
+    "example_zh": "你说什么？",
+    "example_pinyin": "nǐ shuō shénme?",
+    "example_ja": "あなたは何と言いましたか？",
+    "audio_word": "audio/shuo_word.mp3",
+    "audio_example": "audio/shuo_example.mp3"
+  },
+  {
+    "date": "2026-11-10",
+    "hsk": 1,
+    "zh": "中国",
+    "pinyin": "Zhōngguó",
+    "ja": "中国",
+    "example_zh": "我想去中国。",
+    "example_pinyin": "wǒ xiǎng qù Zhōngguó.",
+    "example_ja": "私は中国に行きたいです。",
+    "audio_word": "audio/zhongguo_word.mp3",
+    "audio_example": "audio/zhongguo_example.mp3"
   }
 ]
