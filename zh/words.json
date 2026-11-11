@@ -826,5 +826,41 @@
     "example_ja": "私は中国に行きたいです。",
     "audio_word": "audio/zhongguo_word.mp3",
     "audio_example": "audio/zhongguo_example.mp3"
+  },
+  {
+    "date": "2026-11-11",
+    "hsk": 1,
+    "zh": "叫",
+    "pinyin": "jiào",
+    "ja": "（名前を）～という・呼ぶ",
+    "example_zh": "他叫小王。",
+    "example_pinyin": "tā jiào Xiǎo Wáng.",
+    "example_ja": "彼は王くんといいます。",
+    "audio_word": "audio/jiao_word.mp3",
+    "audio_example": "audio/jiao_example.mp3"
+  },
+  {
+    "date": "2026-11-11",
+    "hsk": 1,
+    "zh": "名字",
+    "pinyin": "míngzi",
+    "ja": "名前",
+    "example_zh": "你叫什么名字？",
+    "example_pinyin": "nǐ jiào shénme míngzi?",
+    "example_ja": "お名前は何ですか？",
+    "audio_word": "audio/mingzi_word.mp3",
+    "audio_example": "audio/mingzi_example.mp3"
+  },
+  {
+    "date": "2026-11-11",
+    "hsk": 1,
+    "zh": "哪儿",
+    "pinyin": "nǎr",
+    "ja": "どこ",
+    "example_zh": "你去哪儿？",
+    "example_pinyin": "nǐ qù nǎr?",
+    "example_ja": "どこに行きますか？",
+    "audio_word": "audio/nar_word.mp3",
+    "audio_example": "audio/nar_example.mp3"
   }
 ]
