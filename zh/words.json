@@ -862,5 +862,41 @@
     "example_ja": "どこに行きますか？",
     "audio_word": "audio/nar_word.mp3",
     "audio_example": "audio/nar_example.mp3"
+  },
+  {
+    "date": "2026-11-12",
+    "hsk": 1,
+    "zh": "中文",
+    "pinyin": "Zhōngwén",
+    "ja": "中国語",
+    "example_zh": "我学习中文。",
+    "example_pinyin": "wǒ xuéxí Zhōngwén.",
+    "example_ja": "私は中国語を勉強しています。",
+    "audio_word": "audio/zhongwen_word.mp3",
+    "audio_example": "audio/zhongwen_example.mp3"
+  },
+  {
+    "date": "2026-11-12",
+    "hsk": 1,
+    "zh": "买",
+    "pinyin": "mǎi",
+    "ja": "買う",
+    "example_zh": "我买水。",
+    "example_pinyin": "wǒ mǎi shuǐ.",
+    "example_ja": "私は水を買います。",
+    "audio_word": "audio/mai_word.mp3",
+    "audio_example": "audio/mai_example.mp3"
+  },
+  {
+    "date": "2026-11-12",
+    "hsk": 1,
+    "zh": "东西",
+    "pinyin": "dōngxi",
+    "ja": "物・品物",
+    "example_zh": "这个东西很好。",
+    "example_pinyin": "zhège dōngxi hěn hǎo.",
+    "example_ja": "この品物はとても良いです。",
+    "audio_word": "audio/dongxi_word.mp3",
+    "audio_example": "audio/dongxi_example.mp3"
   }
 ]
