@@ -898,5 +898,41 @@
     "example_ja": "この品物はとても良いです。",
     "audio_word": "audio/dongxi_word.mp3",
     "audio_example": "audio/dongxi_example.mp3"
+  },
+  {
+    "date": "2026-11-13",
+    "hsk": 1,
+    "zh": "现在",
+    "pinyin": "xiànzài",
+    "ja": "今・現在",
+    "example_zh": "现在我在学校。",
+    "example_pinyin": "xiànzài wǒ zài xuéxiào.",
+    "example_ja": "今、私は学校にいます。",
+    "audio_word": "audio/xianzai_word.mp3",
+    "audio_example": "audio/xianzai_example.mp3"
+  },
+  {
+    "date": "2026-11-13",
+    "hsk": 1,
+    "zh": "几",
+    "pinyin": "jǐ",
+    "ja": "いくつ・何（主に10未満の数を尋ねる）",
+    "example_zh": "你有几个朋友？",
+    "example_pinyin": "nǐ yǒu jǐ ge péngyou?",
+    "example_ja": "あなたは友達が何人いますか？",
+    "audio_word": "audio/ji_word.mp3",
+    "audio_example": "audio/ji_example.mp3"
+  },
+  {
+    "date": "2026-11-13",
+    "hsk": 1,
+    "zh": "点",
+    "pinyin": "diǎn",
+    "ja": "～時（時刻）",
+    "example_zh": "现在几点？",
+    "example_pinyin": "xiànzài jǐ diǎn?",
+    "example_ja": "今何時ですか？",
+    "audio_word": "audio/dian_word.mp3",
+    "audio_example": "audio/dian_example.mp3"
   }
 ]
