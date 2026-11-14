@@ -934,5 +934,41 @@
     "example_ja": "今何時ですか？",
     "audio_word": "audio/dian_word.mp3",
     "audio_example": "audio/dian_example.mp3"
+  },
+  {
+    "date": "2026-11-14",
+    "hsk": 1,
+    "zh": "爱",
+    "pinyin": "ài",
+    "ja": "愛する・大好きだ",
+    "example_zh": "我爱妈妈。",
+    "example_pinyin": "wǒ ài māma.",
+    "example_ja": "私はお母さんが大好きです。",
+    "audio_word": "audio/ai_word.mp3",
+    "audio_example": "audio/ai_example.mp3"
+  },
+  {
+    "date": "2026-11-14",
+    "hsk": 1,
+    "zh": "做",
+    "pinyin": "zuò",
+    "ja": "する・作る",
+    "example_zh": "你做什么？",
+    "example_pinyin": "nǐ zuò shénme?",
+    "example_ja": "あなたは何をしていますか？",
+    "audio_word": "audio/zuo_word.mp3",
+    "audio_example": "audio/zuo_example.mp3"
+  },
+  {
+    "date": "2026-11-14",
+    "hsk": 1,
+    "zh": "工作",
+    "pinyin": "gōngzuò",
+    "ja": "仕事・働く",
+    "example_zh": "我在学校工作。",
+    "example_pinyin": "wǒ zài xuéxiào gōngzuò.",
+    "example_ja": "私は学校で働いています。",
+    "audio_word": "audio/gongzuo_word.mp3",
+    "audio_example": "audio/gongzuo_example.mp3"
   }
 ]
