@@ -970,5 +970,41 @@
     "example_ja": "私は学校で働いています。",
     "audio_word": "audio/gongzuo_word.mp3",
     "audio_example": "audio/gongzuo_example.mp3"
+  },
+  {
+    "date": "2026-11-15",
+    "hsk": 1,
+    "zh": "天气",
+    "pinyin": "tiānqì",
+    "ja": "天気",
+    "example_zh": "今天天气很好。",
+    "example_pinyin": "jīntiān tiānqì hěn hǎo.",
+    "example_ja": "今日は天気がとても良いです。",
+    "audio_word": "audio/tianqi_word.mp3",
+    "audio_example": "audio/tianqi_example.mp3"
+  },
+  {
+    "date": "2026-11-15",
+    "hsk": 1,
+    "zh": "热",
+    "pinyin": "rè",
+    "ja": "暑い・熱い",
+    "example_zh": "今天很热。",
+    "example_pinyin": "jīntiān hěn rè.",
+    "example_ja": "今日はとても暑いです。",
+    "audio_word": "audio/re_word.mp3",
+    "audio_example": "audio/re_example.mp3"
+  },
+  {
+    "date": "2026-11-15",
+    "hsk": 1,
+    "zh": "冷",
+    "pinyin": "lěng",
+    "ja": "寒い・冷たい",
+    "example_zh": "我很冷。",
+    "example_pinyin": "wǒ hěn lěng.",
+    "example_ja": "私はとても寒いです。",
+    "audio_word": "audio/leng_word.mp3",
+    "audio_example": "audio/leng_example.mp3"
   }
 ]
