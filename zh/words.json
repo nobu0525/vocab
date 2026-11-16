@@ -1006,5 +1006,41 @@
     "example_ja": "私はとても寒いです。",
     "audio_word": "audio/leng_word.mp3",
     "audio_example": "audio/leng_example.mp3"
+  },
+  {
+    "date": "2026-11-16",
+    "hsk": 1,
+    "zh": "菜",
+    "pinyin": "cài",
+    "ja": "料理・おかず／野菜",
+    "example_zh": "我喜欢吃中国菜。",
+    "example_pinyin": "wǒ xǐhuan chī Zhōngguó cài.",
+    "example_ja": "私は中華料理（を食べるの）が好きです。",
+    "audio_word": "audio/cai_word.mp3",
+    "audio_example": "audio/cai_example.mp3"
+  },
+  {
+    "date": "2026-11-16",
+    "hsk": 1,
+    "zh": "苹果",
+    "pinyin": "píngguǒ",
+    "ja": "りんご",
+    "example_zh": "我想买苹果。",
+    "example_pinyin": "wǒ xiǎng mǎi píngguǒ.",
+    "example_ja": "私はりんごを買いたいです。",
+    "audio_word": "audio/pingguo_word.mp3",
+    "audio_example": "audio/pingguo_example.mp3"
+  },
+  {
+    "date": "2026-11-16",
+    "hsk": 1,
+    "zh": "水果",
+    "pinyin": "shuǐguǒ",
+    "ja": "果物",
+    "example_zh": "你喜欢吃水果吗？",
+    "example_pinyin": "nǐ xǐhuan chī shuǐguǒ ma?",
+    "example_ja": "あなたは果物（を食べるの）が好きですか？",
+    "audio_word": "audio/shuiguo_word.mp3",
+    "audio_example": "audio/shuiguo_example.mp3"
   }
 ]
