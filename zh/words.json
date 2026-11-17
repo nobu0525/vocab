@@ -1042,5 +1042,41 @@
     "example_ja": "あなたは果物（を食べるの）が好きですか？",
     "audio_word": "audio/shuiguo_word.mp3",
     "audio_example": "audio/shuiguo_example.mp3"
+  },
+  {
+    "date": "2026-11-17",
+    "hsk": 1,
+    "zh": "猫",
+    "pinyin": "māo",
+    "ja": "猫",
+    "example_zh": "我喜欢猫。",
+    "example_pinyin": "wǒ xǐhuan māo.",
+    "example_ja": "私は猫が好きです。",
+    "audio_word": "audio/mao_word.mp3",
+    "audio_example": "audio/mao_example.mp3"
+  },
+  {
+    "date": "2026-11-17",
+    "hsk": 1,
+    "zh": "狗",
+    "pinyin": "gǒu",
+    "ja": "犬",
+    "example_zh": "你家有狗吗？",
+    "example_pinyin": "nǐ jiā yǒu gǒu ma?",
+    "example_ja": "あなたの家には犬がいますか？",
+    "audio_word": "audio/gou_word.mp3",
+    "audio_example": "audio/gou_example.mp3"
+  },
+  {
+    "date": "2026-11-17",
+    "hsk": 1,
+    "zh": "认识",
+    "pinyin": "rènshi",
+    "ja": "知り合う・（人を）知っている",
+    "example_zh": "认识你很高兴。",
+    "example_pinyin": "rènshi nǐ hěn gāoxìng.",
+    "example_ja": "お会いできてうれしいです。",
+    "audio_word": "audio/renshi_word.mp3",
+    "audio_example": "audio/renshi_example.mp3"
   }
 ]
