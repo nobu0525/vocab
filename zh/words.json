@@ -1078,5 +1078,41 @@
     "example_ja": "お会いできてうれしいです。",
     "audio_word": "audio/renshi_word.mp3",
     "audio_example": "audio/renshi_example.mp3"
+  },
+  {
+    "date": "2026-11-18",
+    "hsk": 1,
+    "zh": "岁",
+    "pinyin": "suì",
+    "ja": "～歳（年齢）",
+    "example_zh": "他五岁。",
+    "example_pinyin": "tā wǔ suì.",
+    "example_ja": "彼は5歳です。",
+    "audio_word": "audio/sui_word.mp3",
+    "audio_example": "audio/sui_example.mp3"
+  },
+  {
+    "date": "2026-11-18",
+    "hsk": 1,
+    "zh": "星期",
+    "pinyin": "xīngqī",
+    "ja": "週・曜日",
+    "example_zh": "今天星期几？",
+    "example_pinyin": "jīntiān xīngqī jǐ?",
+    "example_ja": "今日は何曜日ですか？",
+    "audio_word": "audio/xingqi_word.mp3",
+    "audio_example": "audio/xingqi_example.mp3"
+  },
+  {
+    "date": "2026-11-18",
+    "hsk": 1,
+    "zh": "睡觉",
+    "pinyin": "shuìjiào",
+    "ja": "眠る・寝る",
+    "example_zh": "我想睡觉。",
+    "example_pinyin": "wǒ xiǎng shuìjiào.",
+    "example_ja": "私は寝たいです。",
+    "audio_word": "audio/shuijiao_word.mp3",
+    "audio_example": "audio/shuijiao_example.mp3"
   }
 ]
