@@ -1114,5 +1114,41 @@
     "example_ja": "私は寝たいです。",
     "audio_word": "audio/shuijiao_word.mp3",
     "audio_example": "audio/shuijiao_example.mp3"
+  },
+  {
+    "date": "2026-11-19",
+    "hsk": 1,
+    "zh": "上午",
+    "pinyin": "shàngwǔ",
+    "ja": "午前",
+    "example_zh": "我上午工作。",
+    "example_pinyin": "wǒ shàngwǔ gōngzuò.",
+    "example_ja": "私は午前中に仕事をします。",
+    "audio_word": "audio/shangwu_word.mp3",
+    "audio_example": "audio/shangwu_example.mp3"
+  },
+  {
+    "date": "2026-11-19",
+    "hsk": 1,
+    "zh": "中午",
+    "pinyin": "zhōngwǔ",
+    "ja": "昼・正午",
+    "example_zh": "中午你吃什么？",
+    "example_pinyin": "zhōngwǔ nǐ chī shénme?",
+    "example_ja": "お昼にあなたは何を食べますか？",
+    "audio_word": "audio/zhongwu_word.mp3",
+    "audio_example": "audio/zhongwu_example.mp3"
+  },
+  {
+    "date": "2026-11-19",
+    "hsk": 1,
+    "zh": "下午",
+    "pinyin": "xiàwǔ",
+    "ja": "午後",
+    "example_zh": "下午我去学校。",
+    "example_pinyin": "xiàwǔ wǒ qù xuéxiào.",
+    "example_ja": "午後、私は学校に行きます。",
+    "audio_word": "audio/xiawu_word.mp3",
+    "audio_example": "audio/xiawu_example.mp3"
   }
 ]
