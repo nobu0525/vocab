@@ -1150,5 +1150,41 @@
     "example_ja": "午後、私は学校に行きます。",
     "audio_word": "audio/xiawu_word.mp3",
     "audio_example": "audio/xiawu_example.mp3"
+  },
+  {
+    "date": "2026-11-20",
+    "hsk": 1,
+    "zh": "月",
+    "pinyin": "yuè",
+    "ja": "月（暦の月）",
+    "example_zh": "现在是十一月。",
+    "example_pinyin": "xiànzài shì shíyī yuè.",
+    "example_ja": "今は11月です。",
+    "audio_word": "audio/yue_word.mp3",
+    "audio_example": "audio/yue_example.mp3"
+  },
+  {
+    "date": "2026-11-20",
+    "hsk": 1,
+    "zh": "号",
+    "pinyin": "hào",
+    "ja": "～日（日付）・～番",
+    "example_zh": "今天十一月二十号。",
+    "example_pinyin": "jīntiān shíyī yuè èrshí hào.",
+    "example_ja": "今日は11月20日です。",
+    "audio_word": "audio/haori_word.mp3",
+    "audio_example": "audio/haori_example.mp3"
+  },
+  {
+    "date": "2026-11-20",
+    "hsk": 1,
+    "zh": "年",
+    "pinyin": "nián",
+    "ja": "年",
+    "example_zh": "一年有十二个月。",
+    "example_pinyin": "yì nián yǒu shí'èr ge yuè.",
+    "example_ja": "1年は12か月あります。",
+    "audio_word": "audio/nian_word.mp3",
+    "audio_example": "audio/nian_example.mp3"
   }
 ]
