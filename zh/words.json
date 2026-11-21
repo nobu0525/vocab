@@ -1186,5 +1186,41 @@
     "example_ja": "1年は12か月あります。",
     "audio_word": "audio/nian_word.mp3",
     "audio_example": "audio/nian_example.mp3"
+  },
+  {
+    "date": "2026-11-21",
+    "hsk": 1,
+    "zh": "儿子",
+    "pinyin": "érzi",
+    "ja": "息子",
+    "example_zh": "我有一个儿子。",
+    "example_pinyin": "wǒ yǒu yí ge érzi.",
+    "example_ja": "私には息子が一人います。",
+    "audio_word": "audio/erzi_word.mp3",
+    "audio_example": "audio/erzi_example.mp3"
+  },
+  {
+    "date": "2026-11-21",
+    "hsk": 1,
+    "zh": "女儿",
+    "pinyin": "nǚ'ér",
+    "ja": "娘",
+    "example_zh": "你女儿几岁？",
+    "example_pinyin": "nǐ nǚ'ér jǐ suì?",
+    "example_ja": "あなたの娘さんは何歳ですか？",
+    "audio_word": "audio/nuer_word.mp3",
+    "audio_example": "audio/nuer_example.mp3"
+  },
+  {
+    "date": "2026-11-21",
+    "hsk": 1,
+    "zh": "高兴",
+    "pinyin": "gāoxìng",
+    "ja": "うれしい",
+    "example_zh": "我今天很高兴。",
+    "example_pinyin": "wǒ jīntiān hěn gāoxìng.",
+    "example_ja": "私は今日とてもうれしいです。",
+    "audio_word": "audio/gaoxing_word.mp3",
+    "audio_example": "audio/gaoxing_example.mp3"
   }
 ]
