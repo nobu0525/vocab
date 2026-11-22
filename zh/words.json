@@ -1222,5 +1222,41 @@
     "example_ja": "私は今日とてもうれしいです。",
     "audio_word": "audio/gaoxing_word.mp3",
     "audio_example": "audio/gaoxing_example.mp3"
+  },
+  {
+    "date": "2026-11-22",
+    "hsk": 1,
+    "zh": "听",
+    "pinyin": "tīng",
+    "ja": "聞く",
+    "example_zh": "我喜欢听中文。",
+    "example_pinyin": "wǒ xǐhuan tīng zhōngwén.",
+    "example_ja": "私は中国語を聞くのが好きです。",
+    "audio_word": "audio/ting_word.mp3",
+    "audio_example": "audio/ting_example.mp3"
+  },
+  {
+    "date": "2026-11-22",
+    "hsk": 1,
+    "zh": "读",
+    "pinyin": "dú",
+    "ja": "読む・（声に出して）読む",
+    "example_zh": "我在家读书。",
+    "example_pinyin": "wǒ zài jiā dú shū.",
+    "example_ja": "私は家で本を読みます。",
+    "audio_word": "audio/du_word.mp3",
+    "audio_example": "audio/du_example.mp3"
+  },
+  {
+    "date": "2026-11-22",
+    "hsk": 1,
+    "zh": "写",
+    "pinyin": "xiě",
+    "ja": "書く",
+    "example_zh": "我会写汉字。",
+    "example_pinyin": "wǒ huì xiě hànzì.",
+    "example_ja": "私は漢字が書けます。",
+    "audio_word": "audio/xie_word.mp3",
+    "audio_example": "audio/xie_example.mp3"
   }
 ]
