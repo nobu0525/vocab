@@ -1258,5 +1258,41 @@
     "example_ja": "私は漢字が書けます。",
     "audio_word": "audio/xie_word.mp3",
     "audio_example": "audio/xie_example.mp3"
+  },
+  {
+    "date": "2026-11-23",
+    "hsk": 1,
+    "zh": "衣服",
+    "pinyin": "yīfu",
+    "ja": "服",
+    "example_zh": "我想买衣服。",
+    "example_pinyin": "wǒ xiǎng mǎi yīfu.",
+    "example_ja": "私は服を買いたいです。",
+    "audio_word": "audio/yifu_word.mp3",
+    "audio_example": "audio/yifu_example.mp3"
+  },
+  {
+    "date": "2026-11-23",
+    "hsk": 1,
+    "zh": "电脑",
+    "pinyin": "diànnǎo",
+    "ja": "パソコン・コンピューター",
+    "example_zh": "这是我的电脑。",
+    "example_pinyin": "zhè shì wǒ de diànnǎo.",
+    "example_ja": "これは私のパソコンです。",
+    "audio_word": "audio/diannao_word.mp3",
+    "audio_example": "audio/diannao_example.mp3"
+  },
+  {
+    "date": "2026-11-23",
+    "hsk": 1,
+    "zh": "电视",
+    "pinyin": "diànshì",
+    "ja": "テレビ",
+    "example_zh": "我喜欢看电视。",
+    "example_pinyin": "wǒ xǐhuan kàn diànshì.",
+    "example_ja": "私はテレビを見るのが好きです。",
+    "audio_word": "audio/dianshi_word.mp3",
+    "audio_example": "audio/dianshi_example.mp3"
   }
 ]
