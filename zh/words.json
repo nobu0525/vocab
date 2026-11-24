@@ -1294,5 +1294,41 @@
     "example_ja": "私はテレビを見るのが好きです。",
     "audio_word": "audio/dianshi_word.mp3",
     "audio_example": "audio/dianshi_example.mp3"
+  },
+  {
+    "date": "2026-11-24",
+    "hsk": 1,
+    "zh": "医生",
+    "pinyin": "yīshēng",
+    "ja": "医者",
+    "example_zh": "我爸爸是医生。",
+    "example_pinyin": "wǒ bàba shì yīshēng.",
+    "example_ja": "私の父は医者です。",
+    "audio_word": "audio/yisheng_word.mp3",
+    "audio_example": "audio/yisheng_example.mp3"
+  },
+  {
+    "date": "2026-11-24",
+    "hsk": 1,
+    "zh": "医院",
+    "pinyin": "yīyuàn",
+    "ja": "病院",
+    "example_zh": "医院在哪儿？",
+    "example_pinyin": "yīyuàn zài nǎr?",
+    "example_ja": "病院はどこですか？",
+    "audio_word": "audio/yiyuan_word.mp3",
+    "audio_example": "audio/yiyuan_example.mp3"
+  },
+  {
+    "date": "2026-11-24",
+    "hsk": 1,
+    "zh": "商店",
+    "pinyin": "shāngdiàn",
+    "ja": "店・商店",
+    "example_zh": "我去商店买水。",
+    "example_pinyin": "wǒ qù shāngdiàn mǎi shuǐ.",
+    "example_ja": "私は店に水を買いに行きます。",
+    "audio_word": "audio/shangdian_word.mp3",
+    "audio_example": "audio/shangdian_example.mp3"
   }
 ]
