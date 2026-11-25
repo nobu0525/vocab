@@ -1330,5 +1330,41 @@
     "example_ja": "私は店に水を買いに行きます。",
     "audio_word": "audio/shangdian_word.mp3",
     "audio_example": "audio/shangdian_example.mp3"
+  },
+  {
+    "date": "2026-11-25",
+    "hsk": 1,
+    "zh": "出租车",
+    "pinyin": "chūzūchē",
+    "ja": "タクシー",
+    "example_zh": "我坐出租车去医院。",
+    "example_pinyin": "wǒ zuò chūzūchē qù yīyuàn.",
+    "example_ja": "私はタクシーで病院に行きます。",
+    "audio_word": "audio/chuzuche_word.mp3",
+    "audio_example": "audio/chuzuche_example.mp3"
+  },
+  {
+    "date": "2026-11-25",
+    "hsk": 1,
+    "zh": "飞机",
+    "pinyin": "fēijī",
+    "ja": "飛行機",
+    "example_zh": "我想坐飞机去中国。",
+    "example_pinyin": "wǒ xiǎng zuò fēijī qù Zhōngguó.",
+    "example_ja": "私は飛行機で中国に行きたいです。",
+    "audio_word": "audio/feiji_word.mp3",
+    "audio_example": "audio/feiji_example.mp3"
+  },
+  {
+    "date": "2026-11-25",
+    "hsk": 1,
+    "zh": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "ja": "（鉄道の）駅",
+    "example_zh": "火车站在哪儿？",
+    "example_pinyin": "huǒchēzhàn zài nǎr?",
+    "example_ja": "駅はどこですか？",
+    "audio_word": "audio/huochezhan_word.mp3",
+    "audio_example": "audio/huochezhan_example.mp3"
   }
 ]
