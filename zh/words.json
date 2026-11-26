@@ -1366,5 +1366,41 @@
     "example_ja": "駅はどこですか？",
     "audio_word": "audio/huochezhan_word.mp3",
     "audio_example": "audio/huochezhan_example.mp3"
+  },
+  {
+    "date": "2026-11-26",
+    "hsk": 1,
+    "zh": "杯子",
+    "pinyin": "bēizi",
+    "ja": "コップ・カップ",
+    "example_zh": "我要一个杯子。",
+    "example_pinyin": "wǒ yào yí ge bēizi.",
+    "example_ja": "コップを1つください。",
+    "audio_word": "audio/beizi_word.mp3",
+    "audio_example": "audio/beizi_example.mp3"
+  },
+  {
+    "date": "2026-11-26",
+    "hsk": 1,
+    "zh": "桌子",
+    "pinyin": "zhuōzi",
+    "ja": "机・テーブル",
+    "example_zh": "书在桌子上。",
+    "example_pinyin": "shū zài zhuōzi shang.",
+    "example_ja": "本は机の上にあります。",
+    "audio_word": "audio/zhuozi_word.mp3",
+    "audio_example": "audio/zhuozi_example.mp3"
+  },
+  {
+    "date": "2026-11-26",
+    "hsk": 1,
+    "zh": "椅子",
+    "pinyin": "yǐzi",
+    "ja": "椅子",
+    "example_zh": "我的猫在椅子下面。",
+    "example_pinyin": "wǒ de māo zài yǐzi xiàmiàn.",
+    "example_ja": "私の猫は椅子の下にいます。",
+    "audio_word": "audio/yizi_word.mp3",
+    "audio_example": "audio/yizi_example.mp3"
   }
 ]
