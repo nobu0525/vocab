@@ -1402,5 +1402,41 @@
     "example_ja": "私の猫は椅子の下にいます。",
     "audio_word": "audio/yizi_word.mp3",
     "audio_example": "audio/yizi_example.mp3"
+  },
+  {
+    "date": "2026-11-27",
+    "hsk": 1,
+    "zh": "喂",
+    "pinyin": "wéi",
+    "ja": "もしもし（電話で）",
+    "example_zh": "喂，你好！",
+    "example_pinyin": "wéi, nǐ hǎo!",
+    "example_ja": "もしもし、こんにちは！",
+    "audio_word": "audio/wei_word.mp3",
+    "audio_example": "audio/wei_example.mp3"
+  },
+  {
+    "date": "2026-11-27",
+    "hsk": 1,
+    "zh": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "ja": "電話をかける",
+    "example_zh": "我想打电话。",
+    "example_pinyin": "wǒ xiǎng dǎ diànhuà.",
+    "example_ja": "私は電話をかけたいです。",
+    "audio_word": "audio/dadianhua_word.mp3",
+    "audio_example": "audio/dadianhua_example.mp3"
+  },
+  {
+    "date": "2026-11-27",
+    "hsk": 1,
+    "zh": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "ja": "どうですか・いかが",
+    "example_zh": "今天天气怎么样？",
+    "example_pinyin": "jīntiān tiānqì zěnmeyàng?",
+    "example_ja": "今日の天気はどうですか？",
+    "audio_word": "audio/zenmeyang_word.mp3",
+    "audio_example": "audio/zenmeyang_example.mp3"
   }
 ]
