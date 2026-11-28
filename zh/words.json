@@ -1438,5 +1438,41 @@
     "example_ja": "今日の天気はどうですか？",
     "audio_word": "audio/zenmeyang_word.mp3",
     "audio_example": "audio/zenmeyang_example.mp3"
+  },
+  {
+    "date": "2026-11-28",
+    "hsk": 1,
+    "zh": "电影",
+    "pinyin": "diànyǐng",
+    "ja": "映画",
+    "example_zh": "我想看电影。",
+    "example_pinyin": "wǒ xiǎng kàn diànyǐng.",
+    "example_ja": "私は映画を見たいです。",
+    "audio_word": "audio/dianying_word.mp3",
+    "audio_example": "audio/dianying_example.mp3"
+  },
+  {
+    "date": "2026-11-28",
+    "hsk": 1,
+    "zh": "下雨",
+    "pinyin": "xià yǔ",
+    "ja": "雨が降る",
+    "example_zh": "今天下雨了。",
+    "example_pinyin": "jīntiān xià yǔ le.",
+    "example_ja": "今日は雨が降りました。",
+    "audio_word": "audio/xiayu_word.mp3",
+    "audio_example": "audio/xiayu_example.mp3"
+  },
+  {
+    "date": "2026-11-28",
+    "hsk": 1,
+    "zh": "漂亮",
+    "pinyin": "piàoliang",
+    "ja": "きれい・美しい",
+    "example_zh": "你的衣服很漂亮。",
+    "example_pinyin": "nǐ de yīfu hěn piàoliang.",
+    "example_ja": "あなたの服はとてもきれいです。",
+    "audio_word": "audio/piaoliang_word.mp3",
+    "audio_example": "audio/piaoliang_example.mp3"
   }
 ]
